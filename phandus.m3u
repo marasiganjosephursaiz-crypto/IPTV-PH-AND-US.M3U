@@ -6,3 +6,5 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 http://163.172.33.168:22500/deniz/27012019/20748
 #EXTINF:-1 tvg-name="The Weather Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/2560px-TWN_Logo_2011.svg.png" tvg-id="TheWeatherNetwork.ca" tvg-chno="205" group-title="Weather",The Weather Network
 https://d3f6rv2ihfj09x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l4ssesb90374-ssai-prd/playlist.m3u8?
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
+http://206.212.244.63/66/index.m3u8
