@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Free TV", GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="cnn_rptv_prod_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=1980" group-title="Free TV",RPTV HD
+
 #EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Free TV",One News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
