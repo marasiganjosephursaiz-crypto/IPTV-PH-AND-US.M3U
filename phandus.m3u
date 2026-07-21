@@ -16,3 +16,5 @@ http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 http://40.160.24.53/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",CNN US (1080p)
 http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist/
+#EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",NewsMax TV (1080p)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
