@@ -47,6 +47,11 @@ http://195.154.221.171/epg/guide.xml.gz
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/3/33/ABS-CBN_Kapamilya_Channel_Logo_2026.png/revision/latest?cb=20260504151141" group-title="Free TV",ABS-CBN HD
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Free TV", IBC 13
+http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Free TV", NET 25
+http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpBCCDeDIJn9rDuWx8BszuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1645621004526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5X13LGN2GQBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest?cb=20250114204200" group-title="Free TV",Fox News Channel (1080p)
 http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",Fox Live Raw (1080p)
@@ -125,4 +130,8 @@ https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@LiveEvent",Bloomberg TV US Live Event (720p)
 https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (1080p)
+http://40.160.24.55/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+http://206.212.244.63/168/index.m3u8
   
