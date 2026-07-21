@@ -6,7 +6,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
 https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
-#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1280px-OneNewsPH_logo.svg.png" group-title="Free TV",One News HD
+#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/e/ec/One_News.png/revision/latest?cb=20230314060553" group-title="Free TV",One News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
 https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
