@@ -50,3 +50,7 @@ http://122.53.138.32:8000/dwbr.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest?cb=20250114204200" group-title="Free TV",Fox News Channel (1080p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",Fox Live Raw (1080p)
+http://45.190.28.50/FOX_NEWS/index.m3u8
