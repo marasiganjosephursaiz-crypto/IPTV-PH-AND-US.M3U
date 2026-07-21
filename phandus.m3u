@@ -10,6 +10,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
 https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ed/PTV_4_Logo_June_2017.png/revision/latest?cb=20241031144559" group-title="Free TV", PTV HD
+http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/FOXBusiness_2019.svg/revision/latest?cb=20190930114950" group-title="Free TV",Fox Business Network (1080p)
 http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/a/aa/MS-NOW-2025.svg/revision/latest?cb=20251116090852" group-title="Free TV",MS NOW (1080p)
