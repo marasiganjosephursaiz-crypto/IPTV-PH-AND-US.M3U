@@ -14,3 +14,5 @@ https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
 http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/a/aa/MS-NOW-2025.svg/revision/latest?cb=20251116090852" group-title="Free TV",MS NOW (1080p)
 http://40.160.24.53/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/BBC-News-Logo-500x281.png" group-title="Free TV",CNN US (1080p)
+https://usnewson.com/watch/cnn-live
