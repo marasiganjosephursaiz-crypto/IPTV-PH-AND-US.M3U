@@ -8,5 +8,5 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 #EXTINF:-1, UK |FOX News
 http://163.172.33.168:22500/deniz/27012019/20748
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",group-title =group-title="Free TV",,Fox Business Network (1080p)
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD", =group-title="Free TV",,Fox Business Network (1080p)
 http://206.212.244.63/66/index.m3u8
