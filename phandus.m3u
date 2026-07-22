@@ -373,6 +373,17 @@ https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_aljazeera/default/index.mpd
 
 
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (720p)
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (720p)
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan
+https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (1080p) [Geo-blocked]
+https://nhk.lls.pbs.org/index.m3u8
+
 
 
 
