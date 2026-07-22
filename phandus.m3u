@@ -116,11 +116,7 @@ http://206.212.244.63/131/index.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.us@SD",NewsNation (720p)
 http://206.212.244.63/712/index.m3u8
-#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23117
-#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23115
-#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ,CNBC Asia
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -176,4 +172,3 @@ http://rezofoot.tv/CNBC/index.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (576p)
 http://206.212.244.63/42/index.m3u8
-
