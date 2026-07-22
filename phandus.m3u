@@ -48,7 +48,7 @@ https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://toppng.com/uploads/preview/ma-news-tv-logo-11563045262oxeappsxdb.png" ,GMA News TV
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/GMA_News_TV_2024.png/revision/latest?cb=20240917045839" ,GMA News TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5d848730e4a4f9b962290039dd2b96b:c959dc12f1bff5a66d030117fb7e9855
