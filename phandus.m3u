@@ -36,14 +36,14 @@ http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="Free TV", DZRH TV
 http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://i.imgur.com/ZOqMJfw.png",GMA Pinoy TV
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/GMA_Pinoy_TV_%282024%29.png/revision/latest?cb=20240907155423",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://p1.hiclipart.com/preview/960/979/640/tv-channel-icons-pack-gma-life-tv-color-png-icon.jpg" ,GMA Life TV
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,GMA Life TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d308ef487f54107b7da758e195ecbd3:9d4004d4c065dd4b85ad5bd12c35386f
