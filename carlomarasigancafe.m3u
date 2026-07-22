@@ -1347,6 +1347,24 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv
 https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
 #EXTINF:-1 tvg-id="KnowledgeChannel.ph@SD",Knowledge Channel (360p)
 https://thinkkast.dpdns.org/tkk-ph/i7/knowledge_channel/knowledge-channel.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD",Fox Weather (720p)
+http://206.212.244.63/68/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
+http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
+http://206.212.244.63/66/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://41.205.77.102/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://45.190.28.50/FOX_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://167.250.126.140:7777/FOXNEWS-HD/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
 
 
 
