@@ -16,7 +16,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ed/PTV_4_Logo_June_2017.png/revision/latest?cb=20241031144559" group-title="Free TV", PTV HD
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQINpNWGb9AFVnUC7MyQhz7NDbDEoK0ypBYBSSXQ3JKQPtKpl-D7EIFhTg&s=10" group-title="Free TV", Abante HD
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="Free TV", Abante HD
 https://streams.comclark.com/transcodesd/abante/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Free TV",TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
