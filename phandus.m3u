@@ -70,8 +70,10 @@ http://206.212.244.63/67/index.m3u8
 http://45.190.28.50/FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/FOXBusiness_2019.svg/revision/latest?cb=20190930114950" group-title="Free TV",Fox Business Network (1080p)
 http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Fox-weather-logo-stacked-color.svg/revision/latest?cb=20250826151507" group-title="Free TV",Fox Weather (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Fox-weather-logo-stacked-color.svg/revision/latest?cb=20250826151507" group-title="Free TV",Fox Weather (1920x1080 30p)
 https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Fox-weather-logo-stacked-color.svg/revision/latest?cb=20250826151507" group-title="Free TV",Fox Weather (1920x1080 60p)
+http://206.212.244.63/68/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/npj41pk.png"group-title="Free TV", DZMM Teleradyo
 http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10"group-title="Free TV", Bilyonaryo News Channel HD
