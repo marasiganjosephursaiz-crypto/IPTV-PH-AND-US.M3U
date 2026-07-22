@@ -1446,6 +1446,20 @@ https://tve-live-ctl.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_
 
 
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The Weather Channel (official) | (TizTV)"  group-title="Information",The Weather Channel (official) | (TizTV)
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="The Weather Channel | (MOJ) (TizTV)"  group-title="Information",The Weather Channel | (MOJ) (TizTV)
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/sDqQmJty/The-Weather-Channel.png" tvg-name="The Weather Channel | (TizTV)"  group-title="Information",The Weather Channel | (TizTV)
+https://livenewsplayer.com:1936/weathersd/weathersd//playlist.m3u8?secendtime=1733450532&sechash=-xfdkEckv4n6Mpv42y1Gpzgp7-MbWkHJd7jQ6Lu_pBc=&secstarttime=1733375532
+
+#EXTINF:-1, tvg-id="the-weather-channel" tvg-logo="Logo N/A" tvg-name="The Weather Channel | (TVpass) (TizTV)"  group-title="Information",The Weather Channel | (TVpass) (TizTV)
+https://tvpass.org/live/TheWeatherChannel/hd
+
+
+
 
 
 
