@@ -1437,6 +1437,12 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.us",CNN
+https://16live00.akamaized.net/CNN/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us",CNN USA (720p)
+https://tve-live-ctl.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.us",CNN USA (480p)
+https://tve-live-ctl.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 
 
 
