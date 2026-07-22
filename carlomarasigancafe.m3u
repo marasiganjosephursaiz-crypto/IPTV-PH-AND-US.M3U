@@ -1450,7 +1450,92 @@ https://tve-live-ctl.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The Weather Channel (official) | (TizTV)"  group-title="Information",The Weather Channel (official) | (TizTV)
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
+#EXTINF:-1 tvg-id="abcnews-us" group-title="livenow.news" tvg-name="ABC News (US)" tvg-logo="https://livenow.news/images/abcnews-us_hu_9e8033f39e4d5045.jpeg", ABC News (US)
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 
+#EXTINF:-1 tvg-id="cbsnews" group-title="livenow.news" tvg-name="CBS News" tvg-logo="https://livenow.news/images/cbsnews_hu_d605769ba6225b31.jpeg", CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="livenowfox" group-title="livenow.news" tvg-name="Live Now from FOX" tvg-logo="https://livenow.news/images/livenowfox_hu_78d9456d69479ed0.jpeg", Live Now from FOX
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nbcnewsnow" group-title="livenow.news" tvg-name="NBC News Now (USA)" tvg-logo="https://livenow.news/images/nbcnewsnow_hu_fa5a22b5e91c561c.jpeg", NBC News Now (USA)
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="reutersnow" group-title="livenow.news" tvg-name="Reuters Now" tvg-logo="https://livenow.news/images/reutersnow_hu_3ac4208ea90b386b.jpeg", Reuters Now
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="scripps" group-title="livenow.news" tvg-name="Scripps TV (US)" tvg-logo="https://livenow.news/images/scripps_hu_807c57c4c7a63d58.jpeg", Scripps TV (US)
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+#EXTINF:-1 tvg-id="abcnews" group-title="livenow.news" tvg-name="ABC News (Australia)" tvg-logo="https://livenow.news/images/abcnews_hu_5afbbb08b4f91560.jpeg", ABC News (Australia)
+https://www.youtube.com/watch?v=vOTiJkg1voo
+
+#EXTINF:-1 tvg-id="sky-news-australia" group-title="livenow.news" tvg-name="Sky News (Australia)" tvg-logo="https://livenow.news/images/sky-news-australia_hu_77f6caed4a66404b.jpeg", Sky News (Australia)
+https://i.mjh.nz/.r/sky-news-now.m3u8
+
+#EXTINF:-1 tvg-id="ticker-news" group-title="livenow.news" tvg-name="Ticker News (Australia)" tvg-logo="https://livenow.news/images/ticker-news_hu_1d27a87035bcc732.jpeg", Ticker News (Australia)
+https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
+
+#EXTINF:-1 tvg-id="citynews" group-title="livenow.news" tvg-name="CityNews (Canada)" tvg-logo="https://livenow.news/images/citynews_hu_b86fdf010eb61c4a.jpeg", CityNews (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
+#EXTINF:-1 tvg-id="globalnews" group-title="livenow.news" tvg-name="Global News (Canada)" tvg-logo="https://livenow.news/images/globalnews_hu_3c882fc9d29bcad2.jpeg", Global News (Canada)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
+#EXTINF:-1 tvg-id="cgtn" group-title="livenow.news" tvg-name="CGTN (China)" tvg-logo="https://livenow.news/images/cgtn_hu_62a67fa8794044f.jpeg", CGTN (China)
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="dw" group-title="livenow.news" tvg-name="DW News (Germany)" tvg-logo="https://livenow.news/images/dw_hu_cf32af0543bb00c9.jpeg", DW News (Germany)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-id="euronews" group-title="livenow.news" tvg-name="Euronews (France)" tvg-logo="https://livenow.news/images/euronews_hu_2adc21c127e6d35.jpeg", Euronews (France)
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france24" group-title="livenow.news" tvg-name="France24 (France)" tvg-logo="https://livenow.news/images/france24_hu_59ab30ef440041b8.jpeg", France24 (France)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="bbcnews" group-title="livenow.news" tvg-name="BBC News (Worldwide)" tvg-logo="https://livenow.news/images/bbcnews_hu_6e8eac7bdbdf022c.jpeg", BBC News (Worldwide)
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbcnewsuk" group-title="livenow.news" tvg-name="BBC News (UK)" tvg-logo="https://livenow.news/images/bbcnewsuk_hu_55e27e299146ee01.jpeg", BBC News (UK)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+
+#EXTINF:-1 tvg-id="gbnews" group-title="livenow.news" tvg-name="GB News" tvg-logo="https://livenow.news/images/gbnews_hu_e09c7f6c92dc5858.jpeg", GB News
+https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="skynews" group-title="livenow.news" tvg-name="Sky News" tvg-logo="https://livenow.news/images/skynews_hu_e073f086e6ab30f0.jpeg", Sky News
+https://www.youtube.com/watch?v=YDvsBbKfLPA
+
+#EXTINF:-1 tvg-id="indiatoday" group-title="livenow.news" tvg-name="India Today (India)" tvg-logo="https://livenow.news/images/indiatoday_hu_ce2b01a3fcc66a77.jpeg", India Today (India)
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-id="ndtv" group-title="livenow.news" tvg-name="NDTV (India)" tvg-logo="https://livenow.news/images/ndtv_hu_c53c2c9cc41880ce.jpeg", NDTV (India)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="wion" group-title="livenow.news" tvg-name="WION (India)" tvg-logo="https://livenow.news/images/wion_hu_c9a87ebcf300cc94.jpeg", WION (India)
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+#EXTINF:-1 tvg-id="presstv" group-title="livenow.news" tvg-name="Press TV (Iran)" tvg-logo="https://livenow.news/images/presstv_hu_3f1e843b6c21d054.jpeg", Press TV (Iran)
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera" group-title="livenow.news" tvg-name="Al Jazeera English (Qatar)" tvg-logo="https://livenow.news/images/aljazeera_hu_4e8da9b9d71bedb1.jpeg", Al Jazeera English (Qatar)
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="rt" group-title="livenow.news" tvg-name="RT (Russia)" tvg-logo="https://livenow.news/images/rt_hu_7c61dfd43f91a522.jpeg", RT (Russia)
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="cna" group-title="livenow.news" tvg-name="CNA (Singapore)" tvg-logo="https://livenow.news/images/cna_hu_4bae030b0befef02.jpeg", CNA (Singapore)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="trtworld" group-title="livenow.news" tvg-name="TRT World (Turkey)" tvg-logo="https://livenow.news/images/trtworld_hu_27dced6c1b27ed.jpeg", TRT World (Turkey)
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="telesur" group-title="livenow.news" tvg-name="TeleSUR (Venezuela)" tvg-logo="https://livenow.news/images/telesur_hu_408abfea96423450.jpeg", TeleSUR (Venezuela)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sabc-news" group-title="livenow.news" tvg-name="SABC News (South Africa)" tvg-logo="https://livenow.news/images/sabc-news_hu_211888b714a456dd.jpeg", SABC News (South Africa)
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 
 
 
