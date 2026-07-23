@@ -2035,6 +2035,16 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 https://live.ntdtv.com/uwlive990/playlist.m3u8
 #EXTINF:-1 tvg-id="NYXT.us@SD",NYXT (1080p)
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+#EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus (720p)
+http://40.160.24.53/ION_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East",ION TV (720p)
+http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East",ION TV (720p)
+http://40.160.24.53/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East",ION TV (720p)
+http://206.212.244.63/99/index.m3u8
 
 
 
