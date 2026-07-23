@@ -413,10 +413,10 @@ http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@CentralAmerica",Star Channel Latin America Central America (1080p)
 https://streamer.metronethn.com/StarChannel/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (480p)
-http://tvsen7.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel (720p)
+https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (720p)
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="FX.us@East",FX (720p)
