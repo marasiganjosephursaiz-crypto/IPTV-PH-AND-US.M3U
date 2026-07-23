@@ -2743,6 +2743,8 @@ http://206.212.244.63/3150/index.m3u8
 http://206.212.244.63/3151/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@West",Nicktoons West (1080p)
 http://206.212.244.63/3152/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@West",USA Network West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23112
 
 
 
