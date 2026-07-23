@@ -411,8 +411,28 @@ https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg@SD",ROCK Action (1080p)
 http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
-
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@CentralAmerica",Star Channel Latin America Central America (1080p)
+https://streamer.metronethn.com/StarChannel/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (480p)
+http://tvsen7.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (720p)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX (720p)
+http://tvsen7.aynascope.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@West",Nicktoons West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23079
+#EXTINF:-1 tvg-id="Nickelodeon.us@West",Nickelodeon West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23019
+#EXTINF:-1 tvg-id="E.us@East",E! (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23113
+#EXTINF:-1 tvg-id="FYI.us@West",FYI West (1080p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23108
+#EXTINF:-1 tvg-id="SYFY.us@West",SYFY West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23111
+#EXTINF:-1 tvg-id="USANetwork.us@West",USA Network West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23112
 
 
 
