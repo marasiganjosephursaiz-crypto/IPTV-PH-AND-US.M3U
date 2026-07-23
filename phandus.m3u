@@ -30,6 +30,8 @@ https://streams.comclark.com/transcodesd/abante/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
 https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
+#EXTINF:-1 tvg-id="" group-title="Free TV" tvg-logo="https://zbni.ph/wp-content/uploads/2025/03/Light-TV-final_DM-black-scaled.webp" ,Light TV	
+http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1847927235474&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FR3HWWBCXEEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Free TV",One PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
@@ -435,6 +437,18 @@ http://108.181.20.255:27347/livehttpplay?channel_id=23108
 http://108.181.20.255:27347/livehttpplay?channel_id=23111
 #EXTINF:-1 tvg-id="USANetwork.us@West",USA Network West (720p)
 http://108.181.20.255:27347/livehttpplay?channel_id=23112
+#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
+https://starlite.best/api/stream/hurt/hurt/livetv.epg/cnbc.usa.us.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel (720p)
+https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (720p)
+https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@West",USA Network West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23112
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23117
+#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23115
 
 
 
