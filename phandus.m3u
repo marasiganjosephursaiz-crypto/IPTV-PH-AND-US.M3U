@@ -421,10 +421,12 @@ https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="FX.us@East",FX (720p)
 http://tvsen7.aynascope.net/fx/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@West",Nicktoons West (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23079
-#EXTINF:-1 tvg-id="Nickelodeon.us@West",Nickelodeon West (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23019
+#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. (1080p)
+http://206.212.244.63/3150/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons (1080p)
+http://206.212.244.63/3151/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@West",Nicktoons West (1080p)
+http://206.212.244.63/3152/index.m3u8
 #EXTINF:-1 tvg-id="E.us@East",E! (720p)
 http://108.181.20.255:27347/livehttpplay?channel_id=23113
 #EXTINF:-1 tvg-id="FYI.us@West",FYI West (1080p)
