@@ -1537,7 +1537,12 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="sabc-news" group-title="livenow.news" tvg-name="SABC News (South Africa)" tvg-logo="https://livenow.news/images/sabc-news_hu_211888b714a456dd.jpeg", SABC News (South Africa)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 
-
+#EXTINF:-1 tvg-id="HopeChannelInterAmericaEnglish.us@SD",Hope Channel Inter-America English (1080p)
+https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8
+#EXTINF:-1 tvg-id="HopeChannelInternational.us@SD",Hope Channel International (1080p)
+https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
+#EXTINF:-1 tvg-id="HopeChannelNorthAmerica.us@SD",Hope Channel North America (1080p)
+https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
 
 
 
