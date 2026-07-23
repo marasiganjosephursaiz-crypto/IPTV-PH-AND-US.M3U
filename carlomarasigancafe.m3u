@@ -1468,13 +1468,10 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="scripps" group-title="livenow.news" tvg-name="Scripps TV (US)" tvg-logo="https://livenow.news/images/scripps_hu_807c57c4c7a63d58.jpeg", Scripps TV (US)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 
-#EXTINF:-1 tvg-id="abcnews" group-title="livenow.news" tvg-name="ABC News (Australia)" tvg-logo="https://livenow.news/images/abcnews_hu_5afbbb08b4f91560.jpeg", ABC News (Australia)
-https://www.youtube.com/watch?v=vOTiJkg1voo
-
 #EXTINF:-1 tvg-id="sky-news-australia" group-title="livenow.news" tvg-name="Sky News (Australia)" tvg-logo="https://livenow.news/images/sky-news-australia_hu_77f6caed4a66404b.jpeg", Sky News (Australia)
 https://i.mjh.nz/.r/sky-news-now.m3u8
 
-#EXTINF:-1 tvg-id="ticker-news" group-title="livenow.news" tvg-name="Ticker News (Australia)" tvg-logo="https://livenow.news/images/ticker-news_hu_1d27a87035bcc732.jpeg", Ticker News (Australia)
+#EXTINF:-1 tvg-id="ticker-news" group-title="livenow.news" tvg-name="Ticker News (Australia)" tvg-logo="https://livenow.news/images/ticker-news_hu_1d27a87035bcc732.
 https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
 
 #EXTINF:-1 tvg-id="citynews" group-title="livenow.news" tvg-name="CityNews (Canada)" tvg-logo="https://livenow.news/images/citynews_hu_b86fdf010eb61c4a.jpeg", CityNews (Canada)
@@ -1516,9 +1513,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="wion" group-title="livenow.news" tvg-name="WION (India)" tvg-logo="https://livenow.news/images/wion_hu_c9a87ebcf300cc94.jpeg", WION (India)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-#EXTINF:-1 tvg-id="presstv" group-title="livenow.news" tvg-name="Press TV (Iran)" tvg-logo="https://livenow.news/images/presstv_hu_3f1e843b6c21d054.jpeg", Press TV (Iran)
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-
 #EXTINF:-1 tvg-id="aljazeera" group-title="livenow.news" tvg-name="Al Jazeera English (Qatar)" tvg-logo="https://livenow.news/images/aljazeera_hu_4e8da9b9d71bedb1.jpeg", Al Jazeera English (Qatar)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
@@ -1543,7 +1537,28 @@ https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8
 https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 #EXTINF:-1 tvg-id="HopeChannelNorthAmerica.us@SD",Hope Channel North America (1080p)
 https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
-
+#EXTINF:-1 tvg-id="GospelTruthTV.us@SD",Gospel Truth TV (1080p)
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+#EXTINF:-1 tvg-id="GreatAmericanFaithLiving.us@SD",Great American Faith & Living (1080p)
+http://206.212.244.63/82/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel (1080p)
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel (1080p)
+http://40.160.24.53/HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel (720p)
+http://41.223.30.230/HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel (720p)
+http://206.212.244.63/84/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkFamily.us@SD",Hallmark Family (1080p)
+http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkFamily.us@SD",Hallmark Family (720p)
+http://206.212.244.63/85/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD",Hallmark Movies & More (1080p)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-id="HallmarkMystery.us@East",Hallmark Mystery (1080p)
+http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMystery.us@East",Hallmark Mystery (1080p)
+http://206.212.244.63/86/index.m3u8
 
 
 
