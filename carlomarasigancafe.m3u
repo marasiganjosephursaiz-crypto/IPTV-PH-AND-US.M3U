@@ -3717,7 +3717,10 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 #EXTINF:-1 tvg-id="TVOKids.ca@SD",TVOKids (720p)
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkI
 
-
+#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (576p)
+http://41.205.77.102/MTVUSA/index.m3u8
+#EXTINF:-1 tvg-id="MTVU.us@SD",MTVU (720p)
+http://206.212.244.63/119/index.m3u8
 
 
 
