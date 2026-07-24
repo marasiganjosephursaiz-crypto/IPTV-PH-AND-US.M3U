@@ -455,7 +455,7 @@ http://108.181.20.255:27347/livehttpplay?channel_id=23115
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNN.us" tvg-chno="36" group-title="News",CNN
-https://list.iptvcat.com/my_list/s/66b990856d508ac46fb6da1ca7c01ba6.m3u8
+Stream 1 https://usnewson.com/watch/cnn-live.m3u8
 #EXTINF:-1 tvg-id="Fox.us@West",Fox West (720p)
 http://stream.cammonitorplus.net/1799/index.m3u8
 
