@@ -3391,6 +3391,18 @@ https://amg01076-amg01076c3-samsung-ph-7003.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Trace Urban
 https://amg01131-amg01131c1-samsung-ph-5310.playouts.now.amagi.tv/playli
 
+#EXTINF:-1 tvg-id="History.us@East",History (720p)
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East",History (720p)
+http://206.212.244.63/91/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East",History (720p)
+http://212.5.144.156:8080/history/index.m3u8
+#EXTINF:-1 tvg-id="History.us@West",History West (1080p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23105
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports Network USA (1080p)
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+
+
 
 
 
