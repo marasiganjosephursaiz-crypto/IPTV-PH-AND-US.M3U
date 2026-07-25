@@ -225,7 +225,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_lifetime/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5
 https://ucdn.mediaquest.com.ph/bpk-tv/bbcworld_news_sd/default/index.mpd
-
+https://sra72yz.s.gy/ONE_PH_SD
 #EXTINF:-1 tvg-id="hgtv_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A858C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986
@@ -257,9 +257,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_aljazeera/default/index.mpd
 
 #EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",One PH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
-https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3722,6 +3719,10 @@ http://41.205.77.102/MTVUSA/index.m3u8
 #EXTINF:-1 tvg-id="MTVU.us@SD",MTVU (720p)
 http://206.212.244.63/119/index.m3u8
 
+#EXTINF:-1 tvg-id="https://www.abante.com.ph/wp-content/uploads/2026/06/ABANTE-GENERIC.png" group-title="Free TV", Abante HD
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+#EXTINF:-1 tvg-id="https://www.abante.com.ph/wp-content/uploads/2026/06/ABANTE-GENERIC.png" group-title="Free TV", Abante
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
 
 
