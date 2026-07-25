@@ -3728,6 +3728,8 @@ https://streams.comclark.com/transcodesd/abante/playlist.m3u8
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel (1080p)
 https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="WNetwork.ca@SD",W Network (720p)
+http://40.160.24.55/W_NETWORK/index.m3u8
 
 
 
