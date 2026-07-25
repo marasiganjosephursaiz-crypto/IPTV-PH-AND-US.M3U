@@ -257,6 +257,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_aljazeera/default/index.mpd
 
 #EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",One PH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
 https://sra72yz.s.gy/ONE_PH_SD
 
 #EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Food Network HD
