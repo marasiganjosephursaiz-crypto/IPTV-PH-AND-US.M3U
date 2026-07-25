@@ -3731,6 +3731,9 @@ https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="WNetwork.ca@SD",W Network (720p)
 http://40.160.24.55/W_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="WNetwork.ca@SD",Ion Mystery (720p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+
 
 
 
