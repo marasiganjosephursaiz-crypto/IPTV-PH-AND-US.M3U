@@ -3726,6 +3726,8 @@ http://206.212.244.63/119/index.m3u8
 https://streams.comclark.com/transcodesd/abante/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.abante.com.ph/wp-content/uploads/2026/06/ABANTE-GENERIC.png" group-title="Free TV", Abante
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel (1080p)
+https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
 
 
 
