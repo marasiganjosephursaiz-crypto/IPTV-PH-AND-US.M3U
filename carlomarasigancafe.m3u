@@ -3749,7 +3749,18 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNProclaimNetwork.us@SD",3ABN Proclaim! Network
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="NBATVCanada.ca@SD",NBA TV Canada (720p)
+https://sra72yz.s.gy/NBA_TV_CANADA
+#EXTINF:-1 tvg-id="CTV2Atlantic.ca@SD",CTV 2 Atlantic (720p)
+http://stream.cammonitorplus.net/1731/index.m3u8
+#EXTINF:-1 tvg-id="CTVLifeChannel.ca@SD",CTV Life Channel (720p)
+http://185.246.209.113/ANIMALPLANETHD/index.m3u8
+#EXTINF:-1 tvg-id="CTVSpeedChannel.ca@SD",CTV Speed Channel (720p)
+https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 tvg-id="FamilyJr.ca@SD",Family Jr (576p)
+http://tvsen5.aynascope.net/familyjr/index.m3u8
+#EXTINF:-1 tvg-id="CTVSpeedChannel.ca@SD",CTV Speed Channel (720p)
+https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8
 
 
 
