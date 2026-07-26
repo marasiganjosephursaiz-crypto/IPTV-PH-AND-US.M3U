@@ -3796,6 +3796,11 @@ https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?
 
 q=6842d25e3217cafb3fddf9cd8dfe@ale
 
+#EXTINF:-1 tvg-id="History.us@East",History (720p)
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East",History (720p)
+http://206.212.244.63/91/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East",History (720p)
 
 
 
