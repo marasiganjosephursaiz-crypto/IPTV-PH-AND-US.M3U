@@ -3766,41 +3766,14 @@ https://sra72yz.s.gy/FX_CANADA
 #EXTINF:-1 tvg-id="FXX.ca@SD",FXX (1080p)
 https://sra72yz.s.gy/FXX_CANADA
 
-#EXTINF:-1 group-title="BACON CHANNELSTV CHANNELS" tvg-id=""
-
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Lo go 2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png", Kapamilya Channel #KODIPROP: inputstream.adaptive.license_type=clearkey
-
-#KODIPROP: inputstream.adaptive. license_key=bd17afb5dc9648a39be79003634dd4b8:3ecf305
-
-d54a7729299b93a3d69c02ea5 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01066-abs-cbn-kapcha-dash-abscbnono/
-
-index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CultAY8.png" group-title="BACON CHANNELSTV CHANNELS", GMA 7
-
-#KODIPROP: inputstream.adaptive, license_type=com.widevine.alpha #KODIPROP: inputstream.adaptive. license key=http://143.44.136.74:9443/widevine/? deviceId=02:00:00:00:00:00
-
-http://161.49.17.2:6610/061/2/ch000800090990000601893/manifest.mpd? JITPDRMType=Widevine&amp;virtualDomain=081.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="BACON CHANNELSTV CHANNELS, GTV
-
-#KODIPROP: inputstream.adaptive, license_type=com.widevine.alpha #KODIPROP: inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/? deviceId=02:00:00:00:00:00
-
-http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?
-
-JITPDRMType=Widevine&amp; virtualDomain=081.live hls.zte.com
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.1mghippo.com/files/0jqR1436HT.jpg" tvg-logo-small="https://i.imghippo.com/files/0jqR1436HI.jpg" group-title="BACON CHANNELSTV CHANNELS", GMA I Heart Movies
-
-https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?
-
-q=6842d25e3217cafb3fddf9cd8dfe@ale
 
 #EXTINF:-1 tvg-id="History.us@East",History (720p)
 http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="History.us@East",History (720p)
 http://206.212.244.63/91/index.m3u8
 #EXTINF:-1 tvg-id="History.us@East",History (720p)
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation (720p)
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 
 
 
