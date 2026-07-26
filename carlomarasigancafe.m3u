@@ -3774,7 +3774,8 @@ http://206.212.244.63/91/index.m3u8
 #EXTINF:-1 tvg-id="History.us@East",History (720p)
 #EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation (720p)
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
-
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation (720p)
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 
 
 
