@@ -3912,7 +3912,8 @@ http://40.160.24.53/METV_Plus/index.m3u8
 http://40.160.24.55/PIXL/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD",DreamWorks Channel Asia (1080p)
 https://cdn12.178.indevs.in/163189/dreamworks
-
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News North America (1080p)
+https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8
 
 
 
