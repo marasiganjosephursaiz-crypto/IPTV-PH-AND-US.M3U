@@ -3795,6 +3795,12 @@ https://sra72yz.s.gy/MGM_PLUS_HITS_HD
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM+ Marquee (720p)
 https://sra72yz.s.gy/MGM_PLUS_MARQUEE_SD
 
+#EXTINF:-1 tvg-id="ABC.us@East",ABC (720p)
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD",ABC News Live (720p)
+http://206.212.244.63/2/index.m3u8
+#EXTINF:-1 tvg-id="ABC.us@West",ABC West (720p)
+http://stream.cammonitorplus.net/1797/index.m3u8
 
 
 
