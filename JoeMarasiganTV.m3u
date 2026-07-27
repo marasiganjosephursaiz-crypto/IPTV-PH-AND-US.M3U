@@ -853,6 +853,6 @@ http://206.212.244.63/196/index.m3u8
 http://45.189.62.33:8002/play/a0kk/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
 http://40.160.24.55/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest?cb=20250114204200" group-title="Free TV",Fox News Channel (1080p)
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest?cb=20250114204200" group-title="Free TV",Fox News Channel
+http://167.250.126.140:7777/FOXNEWS-HD/index.m3u8
 
