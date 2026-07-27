@@ -3778,6 +3778,22 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1 tvg-id="AltitudeSports.us@SD",Altitude Sports (720p)
 http://206.212.244.63/6153/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us@East",Showtime Showcase (1080p)
+https://sra72yz.s.gy/SHOWTIME_SHOWCASE_EAST_US
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us@East",Starz Encore Westerns (720p)
+https://sra72yz.s.gy/STARZ_ENCORE_WESTER_EAST_US
+#EXTINF:-1 tvg-id="StarzInBlack.us@East",Starz In Black (1080p)
+https://sra72yz.s.gy/STARZ_IN_BLACK_EAST_US
+#EXTINF:-1 tvg-id="StarzEncoreSpanish.us@East",Starz Encore Spanish (720p)
+https://sra72yz.s.gy/STARZ_ENCORE_ESPANOL_EAST_HD
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us@East",Starz Encore Suspense (1080p)
+https://sra72yz.s.gy/STARZ_ENCORE_SUSPENSE_EAST_HD
+#EXTINF:-1 tvg-id="StarzEncoreAction.us@East",Starz Encore Action (1080p)
+https://sra72yz.s.gy/STARZ_ENCORE_ACTION_EAST_HD
+#EXTINF:-1 tvg-id="MGMPlusHits.us@East",MGM+ Hits (1080p)
+https://sra72yz.s.gy/MGM_PLUS_HITS_HD
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM+ Marquee (720p)
+https://sra72yz.s.gy/MGM_PLUS_MARQUEE_SD
 
 
 
