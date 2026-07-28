@@ -73,7 +73,7 @@ https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/a/aa/MS-NOW-2025.svg/revision/latest?cb=20251116090852" group-title="Free TV",MS NOW (1080p)
 http://206.212.244.63/114/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",CNN US (1080p)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+http://198.16.64.10:8278/cnn_antik/playlist.m3u8?tid=MDDD5459459654594596&ct=19225&tsum=6755808cb6aeb34e391b5c7ab695342a
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",NewsMax TV (1080p)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/3/33/ABS-CBN_Kapamilya_Channel_Logo_2026.png/revision/latest?cb=20260504151141" group-title="Free TV",ABS-CBN HD
