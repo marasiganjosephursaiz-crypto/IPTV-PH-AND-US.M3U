@@ -1212,7 +1212,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.us@SD",NewsNation (720p)
 http://206.212.244.63/712/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23117
+http://206.212.244.63/42/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
 http://108.181.20.255:27347/livehttpplay?channel_id=23115
 #EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ,CNBC Asia
@@ -1323,7 +1323,27 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
 http://206.212.244.63/42/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23117
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
+http://206.212.244.63/42/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTN47.ph@SD",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
