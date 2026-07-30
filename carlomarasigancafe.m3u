@@ -4041,6 +4041,17 @@ https://github.com/iptv-org/iptv/blob/986b2324b831ec55c01197e4b31d68ce0f29ba93/c
 https://sr0mvgn.s.gy/CNN_US
 
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW cofps", US: CNN 4K
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=324948&extension=ts&play_token=CaCz0e3Hbk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW cofps", US: CNN HD
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=324928&extension=ts&play_token=ReS1LLQLE3 
+
+cofps", GO: CNN .com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="US | DIREC TV RAW
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568832&extension=ts&play_token=eB1IMsjXSe
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="US| DIREC TV RAW cofps", GO: CNN International airport 
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568831&extension=ts&play_token=EEUWxCsz8t #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="US | DIREC TV RAW
+
 
 
 
