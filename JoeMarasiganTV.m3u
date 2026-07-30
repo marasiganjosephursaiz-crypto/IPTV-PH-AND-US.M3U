@@ -861,6 +861,8 @@ http://40.160.24.55/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
 http://206.212.244.63/67/index.m3u8
 
-US: CNN 4K
-http://pro.8k.yachts: 80/play/live.php?mac=00:1A:79:05:24:80&stream=324963&extension=ts&play_token=jp2bUjJc3s #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?75252" group-title="US | NEWS HD/RAW cofps", US: CNN 4K
 
+http://pro.8k.yachts: 80/play/live.php?mac=00:1A:79:05:24:80&stream=324963&extension=ts&play_token=jp2bUjJc3s #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW cofps", US: CNN HD
+
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=324928&extension=ts&play_token=ReS1LLQLE3 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12762.png?5018" group-title="US| NEWS HD/RAW
