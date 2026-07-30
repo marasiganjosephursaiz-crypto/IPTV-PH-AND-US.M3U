@@ -114,7 +114,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
 https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
-
+#EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://lh4.googleusercontent.com/proxy/cAW9kyTHMynZYmxsYIRttkNCUejv89l1rZsCLRrLY1l5XHNzrU5l4cc_9yZQxVvlZHnLQFg" group-title="Free TV",Great Commission TV
+http://45.32.115.103/live/livestream/index.m3u8
 
 
 
