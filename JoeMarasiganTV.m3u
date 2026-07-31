@@ -205,7 +205,7 @@ https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/
 #EXTGRP:News
 #EXTVLCOPT:http-referrer=http://example.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-http://example.com/stream.m3u8`
+https://sr0mvgn.s.gy/CNN_US`
 
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
 http://206.212.244.63/41/index.m3u8
@@ -469,7 +469,7 @@ http://108.181.20.255:27347/livehttpplay?channel_id=23115
 #EXTINF:-1 tvg-id="CNBC.us@SD",TFC (720p)
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNN.us" tvg-chno="36" group-title="News",CNN
-https://cdn.livenewsplayer.com/hls/cnnsd/cnnsd/playlist.m3u
+https://sr0mvgn.s.gy/CNN_US
 
 #EXTINF:-1 tvg-id="Fox.us@West",Fox West (720p)
 http://stream.cammonitorplus.net/1799/index.m3u8
