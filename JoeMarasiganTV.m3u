@@ -73,7 +73,7 @@ https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/a/aa/MS-NOW-2025.svg/revision/latest?cb=20251116090852" group-title="Free TV",MS NOW
 http://206.212.244.63/114/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",CNN HD
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=324928&extension=ts&play_token=ReSlLLQLE3
+https://sr0mvgn.s.gy/CNN_US
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",CNN International
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568831&extension=ts&play_token=EEUWxCsz8t
 
