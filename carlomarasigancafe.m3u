@@ -4154,3 +4154,11 @@ http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568831&exten
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/TFCASIA.png" group-title="PH| PHILIPINES HD/RAW",TFC ASIA
 http://pro.8k.yachts: 80/play/live.php?mac=00:1A:79:05:24:80&stream=1856379&extension=ts&play_token=0JvlzFjVAp
+
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Discovery Channel HD
+https://sr0mvgn.s.gy/Discovery_channelHD
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Discovery Life
+https://sr0mvgn.s.gy/7RInoY
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXsZZQcffVO8rRexNg-BOZk2T17--rMm8DzbxCPYuWkRt1Tbnss0dICg&s=10"/revision/latest?cb=20240917045835" ,The Weather Channel
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568610&extension=ts&play_token=LRUc7etQtD
