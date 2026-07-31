@@ -118,6 +118,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Discovery Channel HD
 https://sr0mvgn.s.gy/Discovery_channelHD
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Discovery Life
+https://sr0mvgn.s.gy/7RInoY
 
 
 **********Movies**********
