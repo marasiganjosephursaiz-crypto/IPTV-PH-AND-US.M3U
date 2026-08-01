@@ -925,19 +925,27 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568599&exte
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest?cb=20201128113457" ,TNT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568603&extension=ts&play_token=0jVJpFRoII
 
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,TRUTV
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TruTV_2014.svg/revision/latest?cb=20251223195656" ,TRUTV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568596&extension=ts&play_token=rdaMOiurSi
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,TRUE CRIME NOW
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568597&extension=ts&play_token=SWqeyGePdY
 
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,UPTV
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/UPtv_2018_logo.svg/revision/latest?cb=20220921171605" ,UPTV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568587&extension=ts&play_token=r4XDhFA78P
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Ion_Mystery_2024.svg/revision/latest?cb=20251206010410" ,Ion Mystery
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1468061&extension=ts&play_token=ERZ5UOPNRf
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest?cb=20251102212807" ,HLN HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325864&extension=ts&play_token=bsKc7w0zHZ
 
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Oprah_Winfrey_Network.svg/revision/latest?cb=20230818231437" ,OWN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568680&extension=ts&play_token=ylvuPkRehN
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Reelz_2025.svg/revision/latest?cb=20251210140118" ,Reelz TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568659&extension=ts&play_token=b7h4fzcwGM
 
 
 
