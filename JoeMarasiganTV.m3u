@@ -901,7 +901,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568748&exte
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,ION EAST
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568734&extension=ts&play_token=AGDoD8dIqx
 
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/ID-2020.svg/revision/latest?cb=20200413032314" ,ID Discovery
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/ID-2020.svg/revision/latest?cb=20200413032314" ,Investigation Discovery
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568736&extension=ts&play_token=PsjwVXRpER
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,TLC
@@ -931,7 +931,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568596&exte
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,TRUE CRIME NOW
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568597&extension=ts&play_token=SWqeyGePdY
 
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,UP
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,UPTV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568587&extension=ts&play_token=r4XDhFA78P
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Ion_Mystery_2024.svg/revision/latest?cb=20251206010410" ,Ion Mystery
