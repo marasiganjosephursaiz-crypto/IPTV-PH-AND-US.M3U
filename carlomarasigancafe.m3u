@@ -4245,6 +4245,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325828&exten
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,ACC NETWORK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325834&extension=ts&play_token=ctly6JWX4k
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,Cooking Channel 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325825&extension=ts&play_token=KDTo8QNHTT
+
 
 
 
