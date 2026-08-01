@@ -2678,7 +2678,7 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 http://206.212.244.63/46/index.m3u8
 #EXTINF:-1 tvg-id="Charge.us@SD",Charge! (1080p)
 https://gpuserver3.tier1streams.com/CHARGE/index.m3u8
-
+https://sr0mvgn.s.gy/Fox_News_Channel
 #EXTINF:-1 tvg-id="E.us@East",E! (1080p)
 https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8
 #EXTINF:-1 tvg-id="E.us@West",E! West (1080p)
@@ -2692,9 +2692,9 @@ https://gpuserver3.tier1streams.com/FETV/index.m3u8
 #EXTINF:-1 tvg-id="Flix.us@East",Flix (720p)
 https://gpuserver3.tier1streams.com/FLIX/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsInternational.us@SD",Fox News International (720p)
-http://206.212.244.63/67/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-http://206.212.244.63/67/index.m3u8
+https://sr0mvgn.s.gy/Fox_News_Channel
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us@SD",Fox Soccer Plus (720p)
 https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us@East",Freeform (720p)
@@ -4053,10 +4053,10 @@ https://cdn12.178.indevs.in/163189/dreamworks
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News North America (1080p)
 https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-http://206.212.244.63/67/index.m3u8
+https://sr0mvgn.s.gy/Fox_News_Channel
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-http://206.212.244.63/67/index.m3u8
+https://sr0mvgn.s.gy/Fox_News_Channel
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",CW (720p)
 https://github.com/iptv-org/iptv/blob/986b2324b831ec55c01197e4b31d68ce0f29ba93/channels/us.m3u#L299
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",CNN
