@@ -4226,3 +4226,6 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568680&exte
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Reelz_2025.svg/revision/latest?cb=20251210140118" ,Reelz TV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568659&extension=ts&play_token=b7h4fzcwGM
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Discovery Science
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325774&extension=ts&play_token=i5ydpLY4m7
