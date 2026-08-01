@@ -4157,7 +4157,7 @@ http://pro.8k.yachts: 80/play/live.php?mac=00:1A:79:05:24:80&stream=1856379&exte
 
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Discovery Channel HD
-https://sr0mvgn.s.gy/Discovery_channelHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325775&extension=ts&play_token=gkEOC2Nwf5
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Discovery Life
 https://sr0mvgn.s.gy/7RInoY
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXsZZQcffVO8rRexNg-BOZk2T17--rMm8DzbxCPYuWkRt1Tbnss0dICg&s=10"/revision/latest?cb=20240917045835" ,The Weather Channel
@@ -4229,3 +4229,29 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568659&exte
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Discovery Science
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325774&extension=ts&play_token=i5ydpLY4m7
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Discovery Family
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325776&extension=ts&play_token=fu02GWXvi8
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Destinations America
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325833&extension=ts&play_token=IuJ7P0dUHR
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,Buzzr
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325914&extension=ts&play_token=oRAeTKM9G7
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,America Heroes
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325828&extension=ts&play_token=AtoCmffet8
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,ACC NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325834&extension=ts&play_token=ctly6JWX4k
+
+
+
+
+
+
+
+
+
+
+
