@@ -4307,8 +4307,8 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325974&ext
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325972&extension=ts&play_token=qf59gLcmRQ
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO Zone HD
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325971&extension=ts&play_token=GcYzPxRU7i
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,Warner TV
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1992151&extension=ts&play_token=FJLMxDNnk1
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,CW
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=429639&extension=ts&play_token=oSxYo0uBUp
 
 
 
