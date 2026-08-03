@@ -4297,15 +4297,16 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=325825&exten
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,BBC World
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO2
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325976&extension=ts&play_token=21Ns4DthZ1
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO Comedy
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325975&extension=ts&play_token=lc65HQJGG1
-
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO2 HD
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO HD
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325976&extension=ts&play_token=21Ns4DthZ1
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO Comedy HD
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325975&extension=ts&play_token=lc65HQJGG1
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO Family HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325974&extension=ts&play_token=jisHwp4c9f
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO Signature HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325972&extension=ts&play_token=qf59gLcmRQ
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO Zone HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325971&extension=ts&play_token=GcYzPxRU7i
 
 
 
