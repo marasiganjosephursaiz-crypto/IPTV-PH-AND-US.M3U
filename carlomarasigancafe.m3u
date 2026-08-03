@@ -4313,6 +4313,11 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325971&ext
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,CW
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=429639&extension=ts&play_token=oSxYo0uBUp
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest?cb=20250804025829" ,TBS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568621&extension=ts&play_token=IGm1KzjDwI
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest?cb=20250804025829" ,TBS HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325803&extension=ts&play_token=zIR30I2A70
 
 
 
