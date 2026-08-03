@@ -921,6 +921,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568621&exte
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest?cb=20250804025829" ,TBS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568621&extension=ts&play_token=IGm1KzjDwI
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest?cb=20250804025829" ,TBS
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325803&extension=ts&play_token=zIR30I2A70
+
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Tennis_Channel_2026.png/revision/latest?cb=20260329140002" ,TENNIS CHANNEL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568618&extension=ts&play_token=lxOObINogw
 
