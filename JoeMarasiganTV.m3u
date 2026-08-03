@@ -136,10 +136,14 @@ http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohd/default/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO2 HD
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO HD
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325976&extension=ts&play_token=21Ns4DthZ1
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO Comedy HD
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325975&extension=ts&play_token=lc65HQJGG1
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO Family HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325974&extension=ts&play_token=jisHwp4c9f
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ,HBO Signature HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325972&extension=ts&play_token=qf59gLcmRQ
 
 
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now
