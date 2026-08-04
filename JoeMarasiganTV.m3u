@@ -979,6 +979,17 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325884&ext
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , BBC AMERICA HD
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1536965&extension=ts&play_token=MVEU4LYSf7
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Kapatid Online SD
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856285&extension=ts&play_token=7icYwvBIwj
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Kapatid Online SD 1
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856331&extension=ts&play_token=Xt8Ietz0Ai
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/2/24/Jeepney_TV_Logo_2015.png/revision/latest?cb=20240906054842" , Jeppney TV
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=440577&extension=ts&play_token=p4C2LY66kH
+
+
+
 
 
 
