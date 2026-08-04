@@ -964,6 +964,39 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568659&exte
 https://api.m3use.projectmoose.xyz/m3u/joeursaizmarasigan/GMA%20Network.m3u?uid=joeursaizmarasigan&pkey=rZbK75ru
 
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest?cb=20250804025829" ,TBS HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325803&extension=ts&play_token=zIR30I2A70
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/1280px-USA_Network_2020.svg.png" ,USA Network HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=610437&extension=ts&play_token=Mzxbj5etOP
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/1280px-USA_Network_2020.svg.png/revision/latest?cb=20240917045835" ,USA Network East HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325924&extension=ts&play_token=szgz5nJ1dk
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/1280px-USA_Network_2020.svg.png" ,USA Network West HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325884&extension=ts&play_token=MMxJpbq4HI
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , BBC AMERICA HD
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1536965&extension=ts&play_token=MVEU4LYSf7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
