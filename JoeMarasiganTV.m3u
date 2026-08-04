@@ -991,8 +991,8 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856439&ex
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856276&extension=ts&play_token=I91BXa2tqd
 
-
-
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC CANADA
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856343&extension=ts&play_token=fcaYgMWkyM
 
 
 
