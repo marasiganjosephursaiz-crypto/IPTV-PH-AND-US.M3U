@@ -961,7 +961,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568659&exte
 
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/250px-CNN_International_logo.svg.png", GMA Network
-https://api.m3use.projectmoose.xyz/m3u/joeursaizmarasigan/GMA.m3u?uid=joeursaizmarasigan&pkey=rZbK75ru
+https://api.m3use.projectmoose.xyz/m3u/joeursaizmarasigan/GMA%20Network.m3u?uid=joeursaizmarasigan&pkey=rZbK75ru
 
 
 
