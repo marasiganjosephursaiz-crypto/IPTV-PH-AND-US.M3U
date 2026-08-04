@@ -1193,9 +1193,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="World TV",MNX HD 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
@@ -1223,7 +1220,7 @@ https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://sr0mvgn.s.gy/Fox_News_Channel_FHD
+http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/FOXBusiness_2019.svg/revision/latest?cb=20190930114950" group-title="Free TV",Fox Business Network (1080p)
 https://sr0mvgn.s.gy/FOX_Business_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/a/aa/MS-NOW-2025.svg/revision/latest?cb=20251116090852" group-title="Free TV",MS NOW (1080p)
@@ -1453,6 +1450,63 @@ https://sr0mvgn.s.gy/FOX_Business_HD
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
 https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+https://gpusérŕ.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+9.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://206.212.244.63/67/index.m3u8 
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
 https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
 https://gpuserver3.tier1streams.com/FOX/index.m3u8
@@ -1461,71 +1515,13 @@ https://sr0mvgn.s.gy/Fox_News_Channel
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
 https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
+http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
+http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
+http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8l
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://sr0mvgn.s.gy/Fox_News_Channel
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://sr0mvgn.s.gy/Fox_News_Channel
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://sr0mvgn.s.gy/Fox_News_Channel
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://sr0mvgn.s.gy/Fox_News_Channel
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
+http://206.212.244.63/67/index.m3u8
 
 #EXTM3U
 #EXTINF:-1,A2Z
