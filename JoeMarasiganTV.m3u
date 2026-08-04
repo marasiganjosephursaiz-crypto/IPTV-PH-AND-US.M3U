@@ -959,6 +959,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568680&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568659&extension=ts&play_token=b7h4fzcwGM
 
 
+#EXTINF:-1 tvg-id="" tvg-chno="901" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Abante_masthead.svg.png/revision/latest/scale-to-width-down/300?cb=20241201092744" group-title="News" group-id="news",Abante TV (1080p)
+{{CDN}}/{{ABANTE}}
+
 
 
 
