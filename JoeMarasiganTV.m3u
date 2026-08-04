@@ -959,11 +959,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568680&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568659&extension=ts&play_token=b7h4fzcwGM
 
 
-#EXTINF:-1,GMA Network
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-
-
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/250px-CNN_International_logo.svg.png", CNN
+https://api.m3use.projectmoose.xyz/m3u/joeursaizmarasigan/Local Channel/681c98513f3fe66ffedb6abe.m3u8?uid=joeursaizmarasigan&pkey=DAKTFk5k
 
 
 
