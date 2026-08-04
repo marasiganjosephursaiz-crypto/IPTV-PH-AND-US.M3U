@@ -4552,8 +4552,8 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1536965&ex
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest?cb=20201128113457" ,TNT 3
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=716491&extension=ts&play_token=8rL14ysWVn
 
-
-
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Paramount Network
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1980770&extension=ts&play_token=8MlZSTwE4A
 
 
 
