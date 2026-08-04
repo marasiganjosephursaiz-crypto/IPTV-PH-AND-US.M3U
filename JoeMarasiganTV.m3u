@@ -988,8 +988,8 @@ http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856331&exten
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/2/24/Jeepney_TV_Logo_2015.png/revision/latest?cb=20240906054842" , Jeppney TV
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856439&extension=ts&play_token=Gla1VdWYY8
 
-
-
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856276&extension=ts&play_token=I91BXa2tqd
 
 
 
