@@ -4252,7 +4252,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568599&exte
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=604997&extension=ts&play_token=ozrBSgG1tx
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest?cb=20201128113457" ,TNT 2
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=716522&extension=ts&play_token=3o8E7ryIAi
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=716491&extension=ts&play_token=FhY2ki5uyb
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TruTV_2014.svg/revision/latest?cb=20251223195656" ,TRUTV
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568596&extension=ts&play_token=rdaMOiurSi
@@ -4330,6 +4330,27 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325884&ext
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , BBC AMERICA
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1536965&extension=ts&play_token=MVEU4LYSf7
+
+
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=716491&extension=ts&play_token=FhY2ki5uyb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
