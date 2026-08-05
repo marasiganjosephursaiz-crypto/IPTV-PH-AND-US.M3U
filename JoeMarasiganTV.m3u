@@ -997,7 +997,7 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856343&ex
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC North America
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856345&extension=ts&play_token=fk7kSbsBEl
 
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/223020.png" ,Kapatid
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Kapatid_Channel_%282026%29.svg/revision/latest?cb=20260501103945" ,Kapatid
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856339&extension=ts&play_token=bu2wyxSfAX
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://i.imgur.com/npj41pk.png" , DZMM TeleRadyo
@@ -1006,6 +1006,17 @@ http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856409&exten
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News Channel
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://api.tiri.us.kg/hls/hls_channel_1105
+
+#EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest?cb=20210615015237" group-title="Free TV",Food Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1f4a8926c374d509e218a7c3f5d6049:15cde0b44b44f38ea936513a99606c1b
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="asianfoodnetwork_sd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Asian_Food_Network_logo_2019_Gradient.svg/revision/latest?cb=20240614114459" group-title="Cignal",Asian Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
+https://ucdn.mediaquest.com.ph/bpk-tv/asianfoodnetwork_sd/default/index.mpd
+
 
 
 
