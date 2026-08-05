@@ -1017,7 +1017,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
 https://ucdn.mediaquest.com.ph/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
-
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Cinema_One?file=CinemaOne.svg" , Cinema One Global
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=2047395&extension=ts&play_token=g10SHEI3HC
 
 
 
