@@ -4592,6 +4592,101 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856402&ex
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Cinema_One?file=CinemaOne.svg" , Cinema One Global
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856333&extension=ts&play_token=dm6Bzs2abJ
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , Discovery Channel HD
+https://sr0mvgn.s.gy/Discovery_channelHD
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Discovery_Life_2016.jpg/revision/latest?cb=20160901054039" , Discovery Life
+https://sr0mvgn.s.gy/7RInoY
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , Discovery Science
+https://sr0mvgn.s.gy/Discovery_ science
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXsZZQcffVO8rRexNg-BOZk2T17--rMm8DzbxCPYuWkRt1Tbnss0dICg&s=10"/revision/latest?cb=20240917045835" ,The Weather Channel
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568610&extension=ts&play_token=LRUc7etQtD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest?cb=20250114204200" group-title="Free TV",Fox News Channel
+https://sr0mvgn.s.gy/Fox_News_Channel
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" ,ESPN
+https://sr0mvgn.s.gy/ESPNOne
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" ,ESPN
+https://sr0mvgn.s.gy/ESPNTwo
+
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest?cb=20210615015237" ,FOOD NETWORK
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568781&extension=ts&play_token=RuNGpBLauX
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest?cb=20260605120548" ,FOX SPORTS 1
+https://sr0mvgn.s.gy/FoxSports1
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest?cb=20260605120548" ,FOX SPORTS 2
+https://sr0mvgn.s.gy/FoxSports2
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tv-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" ,HGTV
+https://sr0mvgn.s.gy/HGTV
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Ion_Television_%282021%29.svg/revision/latest?cb=20210412034718" ,ION EAST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568734&extension=ts&play_token=AGDoD8dIqx
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/ID-2020.svg/revision/latest?cb=20200413032314" ,Investigation Discovery
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568736&extension=ts&play_token=o8xPKk21hF
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest?cb=20210606163834" ,TLC
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568606&extension=ts&play_token=C7p9qheEWa
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Turner_Classic_Movies_2021.svg/revision/latest?cb=20210901224657" ,TCM
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568620&extension=ts&play_token=oWy58lIrct
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest?cb=20250804025829" ,TBS
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568621&extension=ts&play_token=H9HkRw0tyt
+
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Tennis_Channel_2026.png/revision/latest?cb=20260329140002" ,TENNIS CHANNEL
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568618&extension=ts&play_token=83nO7fM4Em
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Tennis_Channel_2026.png/revision/latest?cb=20260329140002" ,TENNIS CHANNNEL 2
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568617&extension=ts&play_token=6htmvs3aPx
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Travel_Channel_2018_alt.svg/revision/latest?cb=20260404141057" ,Travel Channel
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568599&extension=ts&play_token=QoTKCuzCyF
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest?cb=20201128113457" , TNT
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568603&extension=ts&play_token=NYpPhwgpEH
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TruTV_2014.svg/revision/latest?cb=20251223195656" ,TRUTV
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568596&extension=ts&play_token=0INUnDVeG2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
