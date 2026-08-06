@@ -4653,7 +4653,8 @@ http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568603&exten
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TruTV_2014.svg/revision/latest?cb=20251223195656" ,TRUTV
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568596&extension=ts&play_token=0INUnDVeG2
 
-
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , Discovery Family
+https://sr0mvgn.s.gy/DiscoveryFamily
 
 
 
