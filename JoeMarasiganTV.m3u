@@ -136,13 +136,13 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568793&exte
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568781&extension=ts&play_token=RuNGpBLauX
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest?cb=20260605120548" ,FOX SPORTS 1
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568777&extension=ts&play_token=iBpccf8Ghu
+https://sr0mvgn.s.gy/FoxSports1
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest?cb=20260605120548" ,FOX SPORTS 2
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568776&extension=ts&play_token=L2vV4due5u
+https://sr0mvgn.s.gy/FoxSports2
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tv-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" ,HGTV
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568748&extension=ts&play_token=yQbMvdNKSt
+https://sr0mvgn.s.gy/HGTV
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Ion_Television_%282021%29.svg/revision/latest?cb=20210412034718" ,ION EAST
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568734&extension=ts&play_token=AGDoD8dIqx
