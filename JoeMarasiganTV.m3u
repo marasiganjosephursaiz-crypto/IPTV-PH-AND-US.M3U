@@ -130,7 +130,11 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568610&exte
 https://sr0mvgn.s.gy/Fox_News_Channel
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" ,ESPN
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568793&extension=ts&play_token=VpJjVR0H7S
+https://sr0mvgn.s.gy/ESPNOne
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" ,ESPN
+https://sr0mvgn.s.gy/ESPNTwo
+
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest?cb=20210615015237" ,FOOD NETWORK
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568781&extension=ts&play_token=RuNGpBLauX
