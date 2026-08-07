@@ -385,7 +385,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (1080p)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:49:48:A4&stream=1568833&extension=ts&play_token=lfFS3EGxEh
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC  Europe
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1407367&extension=ts&play_token=elkTlM9cAk
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:49:48:A4&stream=2011486&extension=ts&play_token=UzpzhaumUa
 
 
 **********Cignal-TV**********
