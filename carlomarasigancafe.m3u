@@ -1884,6 +1884,11 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="gbnews" group-title="livenow.news" tvg-name="GB News" tvg-logo="https://livenow.news/images/gbnews_hu_e09c7f6c92dc5858.jpeg", GB News
 https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (1080p)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:49:48:A4&stream=1568833&extension=ts&play_token=lfFS3EGxEh
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC  Europe
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:49:48:A4&stream=2011486&extension=ts&play_token=UzpzhaumUa
+
 
 #EXTINF:-1 tvg-id="indiatoday" group-title="livenow.news" tvg-name="India Today (India)" tvg-logo="https://livenow.news/images/indiatoday_hu_ce2b01a3fcc66a77.jpeg", India Today (India)
 https://feeds.intoday.in/hltapps/api/master.m3u8
