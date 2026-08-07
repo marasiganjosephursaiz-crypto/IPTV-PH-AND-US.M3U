@@ -4579,6 +4579,13 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856343&ex
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC North America
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856345&extension=ts&play_token=fk7kSbsBEl
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC Australia
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1856379&extension=ts&play_token=eBPMx6LovK
+
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC East
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1856341&extension=ts&play_token=Fy61rWtPWr
+
+
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Kapatid_Channel_%282018%29.png/revision/latest?cb=20181007111057" ,Kapatid
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856339&extension=ts&play_token=bu2wyxSfAX
 
