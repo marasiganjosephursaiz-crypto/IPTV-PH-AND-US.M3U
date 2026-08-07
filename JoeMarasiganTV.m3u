@@ -382,8 +382,11 @@ https://gpuserver3.tier1streams.com/CNBC/index.m3u8
 https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (480p)
-http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (1080p)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:49:48:A4&stream=324948&extension=ts&play_token=0OjGyIeUtT
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC  Europe
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1407367&extension=ts&play_token=elkTlM9cAk
+
 
 **********Cignal-TV**********
 
