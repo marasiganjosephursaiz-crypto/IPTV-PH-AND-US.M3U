@@ -377,7 +377,7 @@ https://sr0mvgn.s.gy/CNN_US
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
 http://206.212.244.63/41/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (1080p)
-https://gpuserver3.tier1streams.com/CNBC/index.m3u8
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=324929&extension=ts&play_token=2pIvJoJXTH
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
 https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD",CNBC Indonesia (720p)
