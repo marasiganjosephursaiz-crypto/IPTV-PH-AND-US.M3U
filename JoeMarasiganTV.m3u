@@ -72,8 +72,8 @@ https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/a/aa/MS-NOW-2025.svg/revision/latest?cb=20251116090852" group-title="Free TV",MS NOW HD
 https://sr0mvgn.s.gy/MSNOW_HD
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20251028170524" group-title="Free TV",CNN HD Aabs cbn
-https://sr0mvgn.s.gy/CNN_US
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20251028170524" group-title="Free TV",CNN International HD
 https://sr0mvgn.s.gy/CNN_US_4K
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",NewsMax TV HD
