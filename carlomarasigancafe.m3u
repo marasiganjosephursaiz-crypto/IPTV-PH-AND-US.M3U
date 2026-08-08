@@ -1250,7 +1250,7 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=856507&ext
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (720p)
 http://206.212.244.63/42/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23115
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=324929&extension=ts&play_token=lx86kB70BA
 #EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ,CNBC Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2996,7 +2996,7 @@ https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (1080p)
 https://cdn1.ayitistream.com/NBATV/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
-https://starlite.best/api/stream/hurt/hurt/livetv.epg/cnbc.usa.us.m3u8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=324929&extension=ts&play_token=lx86kB70BA
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us@SD",Great American Family (1080p)
 https://starlite.best/api/stream/hurt/hurt/livetv.epg/gac.great.american.country.us.m3u8
 #EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+ (1080p)
