@@ -1824,11 +1824,11 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,CNN
-https://sr0mvgn.s.gy/CNN_US_4K
+https://sr0mvgn.s.gy/CNN_US
 #EXTINF:-1 tvg-id="CNN.us",CNN
-https://sr0mvgn.s.gy/CNN_US_4K
+https://sr0mvgn.s.gy/CNN_US
 #EXTINF:-1 tvg-id="CNN.us",CNN USA (720p)
-https://sr0mvgn.s.gy/CNN_US_4K
+https://sr0mvgn.s.gy/CNN_US
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The Weather Channel (official) | (TizTV)"  group-title="Information",The Weather Channel (official) | (TizTV)
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
@@ -4310,11 +4310,11 @@ https://sr0mvgn.s.gy/Fox_News_Channel
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",CW (720p)
 https://github.com/iptv-org/iptv/blob/986b2324b831ec55c01197e4b31d68ce0f29ba93/channels/us.m3u#L299
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",CNN
-https://sr0mvgn.s.gy/CNN_US_4K
+https://sr0mvgn.s.gy/CNN_US
 
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW cofps", US: CNN 4K
-https://sr0mvgn.s.gy/CNN_US_4K
+https://sr0mvgn.s.gy/CNN_US
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW cofps", US: CNN HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=324928&extension=ts&play_token=SJQEzyZhSJ
 
@@ -4322,7 +4322,7 @@ cofps", GO: CNN .com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-ti
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568832&extension=ts&play_token=eB1IMsjXSe
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20251028170524" group-title="Free TV",CNN International
-https://sr0mvgn.s.gy/CNN_US_4K
+https://sr0mvgn.s.gy/CNN_US
 
 
 
