@@ -1996,7 +1996,7 @@ https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTINF:-1 tvg-id="AccessVisionChannel17.us@SD",AccessVision Channel 17 (720p)
 https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us@SD",AccuWeather NOW (720p)
-http://23.239.31.26:8989/accuweather/index.m3u8
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1476594&extension=ts&play_token=r5YmnBmyWZ
 #EXTINF:-1 tvg-id="AceTV.us@SD",Ace TV (480p)
 https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
 #EXTINF:-1 tvg-id="ACTV.us@SD",ACTV
