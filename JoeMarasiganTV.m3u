@@ -1061,7 +1061,7 @@ https://cdn.qd.je/163189/ch8
 #EXTINF:-1 tvg-id="ChannelU.sg@SD",Channel U (720p)
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 tvg-id="Channel5.sg@SD",Channel 5 (720p)
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/10938150/contextType/PLAYBACK/is
+https://cdn.qd.je/163189/ch5
 #EXTINF:-1 tvg-id="Channel5.sg@SD",ABS-CBN (720p)
 https://cdn.qd.je/163189/cna
 
