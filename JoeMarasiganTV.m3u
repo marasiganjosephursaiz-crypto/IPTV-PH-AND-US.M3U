@@ -1056,8 +1056,12 @@ http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568831&exten
 http://pro.8k.yachts: 80/play/live.php?mac=00:1A:79:05:24:80&stream=1856379&extension=ts&play_token=0JvlzFjVAp
 
 
-
-
+#EXTINF:-1 tvg-id="Channel8.sg@SD",Channel 8 (720p)
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="ChannelU.sg@SD",Channel U (720p)
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 tvg-id="Channel5.sg@SD",Channel 8 (720p)
+https://cdn.qd.je/163189/ch5
 
 
 
