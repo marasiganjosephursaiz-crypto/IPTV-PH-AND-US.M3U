@@ -1061,7 +1061,10 @@ https://cdn.qd.je/163189/ch8
 #EXTINF:-1 tvg-id="ChannelU.sg@SD",Channel U (720p)
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 tvg-id="Channel5.sg@SD",Channel 8 (720p)
-https://cdn.qd.je/163189/Ch5HD
+https://cdn.qd.je/163189/Channel5
+#EXTINF:-1 tvg-id="Channel5.sg@SD",Channel 8 (720p)
+https://cdn.qd.je/163189/CNA
+
 
 
 
