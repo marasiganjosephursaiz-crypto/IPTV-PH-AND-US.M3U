@@ -4668,19 +4668,20 @@ http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568596&exten
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , Discovery Family
 https://sr0mvgn.s.gy/DiscoveryFamily
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , CW
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568819&extension=ts&play_token=A4lysaybqC
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , Big Ten Network 1
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568853&extension=ts&play_token=OELeQHHIwC
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , Big Ten Network 2
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568854&extension=ts&play_token=lTaGUWgkWt
 
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , Big Ten Network 3
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568852&extension=ts&play_token=W2HZ7bgKfz
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , Big Ten Network 4
+http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568851&extension=ts&play_token=bVaYXBaF1R
 
 
 
