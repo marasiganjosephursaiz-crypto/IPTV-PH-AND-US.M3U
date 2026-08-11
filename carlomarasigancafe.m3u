@@ -4894,7 +4894,21 @@ http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Freeform.us@East",Freeform (720p)
 https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8
 
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel (720p)
+http://40.160.24.56/FXM_SD/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX (1080p)
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX (1080p)
+http://40.160.24.52/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX (720p)
+http://40.160.24.56/FXX_SD/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX (720p)
+https://gpuserver3.tier1streams.com/FXX/index.m3u8
 
+#EXTINF:-1 tvg-id="GalxyTV.us@SD",Galxy TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2230
+#EXTINF:-1 tvg-id="GameShowNetwork.us@East",Game Show Network (1080p)
+https://gpuserver3.tier1streams.com/GSN/index.m3u8
 
 
 
