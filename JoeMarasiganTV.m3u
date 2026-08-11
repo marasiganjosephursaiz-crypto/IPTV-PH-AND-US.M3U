@@ -1079,7 +1079,12 @@ https://cdn.qd.je/163189/chu
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 #EXTINF:-1 tvg-id="Channel5.sg@SD",ABS-CBN (720p)
 https://cdn.qd.je/163189/cna
-
+#EXTINF:-1 tvg-id="CMT.us@East",CMT (720p)
+http://40.160.24.56/CMT_SD/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
+http://40.160.24.56/CNBC_SD/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (720p)
+http://40.160.24.56/CNBC_WORLD_SD/index.m3u8
 
 
 
