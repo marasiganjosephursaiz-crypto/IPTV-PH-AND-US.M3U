@@ -4683,13 +4683,114 @@ http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568852&exten
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" , Big Ten Network 4
 http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568851&extension=ts&play_token=bVaYXBaF1R
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Fuse.us@East",Fuse (1080p)
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us@East",Fuse (720p)
+http://40.160.24.56/FUSE_SD/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us@East",Fuse (720p)
+https://gpuserver3.tier1streams.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX (1080p)
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX (720p)
+http://40.160.24.52/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX (720p)
+http://40.160.24.56/FX_SD/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX (720p)
+http://tvsen7.aynascope.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX (720p)
+https://gpuserver3.tier1streams.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX (1080p)
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX (1080p)
+http://40.160.24.52/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX (720p)
+http://40.160.24.56/FXX_SD/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX (720p)
+https://gpuserver3.tier1streams.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime (720p)
+http://40.160.24.53/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeAsia.us@SD",Lifetime Asia (1080p)
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies (1080p)
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies (720p)
+http://40.160.24.53/LMN/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeRealWomen.us@SD",Lifetime Real Women (576p)
+http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="HSN.us@East",HSN (720p)
+http://40.160.24.53/HSN/index.m3u8
+#EXTINF:-1 tvg-id="HSN.us@East",HSN (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-id="HSN2.us@SD",HSN2 (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="HSN.us@West",HSN West (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+#EXTINF:-1 tvg-id="IFC.us@East",IFC (1080p)
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-id="IFC.us@East",IFC (720p)
+http://40.160.24.53/IFC/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us@SD",Laff (1080p)
+http://40.160.24.53/LAFF_TV/index.m3u8
+#EXTINF:-1 tvg-id="Logo.us@East",Logo (720p)
+http://40.160.24.53/LOGO_TV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us@East",MTV (720p)
+http://40.160.24.53/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us@East",MTV (720p)
+http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (1080p)
+http://40.160.24.53/MTV2/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (720p)
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@HD",Outdoor Channel HD (1080p)
+http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@HD",Outdoor Channel HD (720p)
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV (720p)
+http://40.160.24.55/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Ovation.us@SD",Ovation (1080p)
+http://40.160.24.55/OVATION/index.m3u8
+#EXTINF:-1 tvg-id="OvercomersTV.us@SD",Overcomers TV (720p)
+https://glorystartv.live/Overcomers/index.m3u8
+#EXTINF:-1 tvg-id="OvercomersTV.us@SD",Overcomers TV (720p)
+https://rumble.com/live-hls/79qjh2/playlist.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us@East",Oxygen (720p)
+http://40.160.24.55/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us@East",Oxygen (720p)
+http://198.58.104.90:8989/oxygen/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@East",Showtime (720p)
+http://40.160.24.55/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@East",Showtime (720p)
+https://gpuserver5.tier1streams.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 (1080p)
+http://40.160.24.55/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 (720p)
+https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us@East",Showtime Extreme (1080p)
+http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us@East",Showtime Extreme (720p)
+https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East",Showtime Family Zone (720p)
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next (720p)
+http://40.160.24.55/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next (720p)
+https://gpuserver5.tier1streams.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (720p)
+http://40.160.24.55/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (720p)
+https://gpuserver5.tier1streams.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women (720p)
+http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (720p)
+http://40.160.24.56/CNBC_WORLD_SD/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central (1080p)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central (720p)
+http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg@SD",CNBC Asia (720p)
+http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg@SD",CNBC Asia (720p)
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 
 
 
