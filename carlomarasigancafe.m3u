@@ -5001,6 +5001,16 @@ http://40.160.24.53/HALLMARK/index.m3u8
 http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkMystery.us@East",Hallmark Mystery (1080p)
 http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@East",BET (720p)
+http://40.160.24.56/BET_EAST_SD/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us@East",BET Her (720p)
+http://40.160.24.56/BET_HER_SD/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us@SD",BET Jams (720p)
+http://40.160.24.56/BET_JAMS_SD/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us@SD",BET Soul (720p)
+http://40.160.24.56/BET_SOUL_SD/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@West",BET West (720p)
+http://40.160.24.56/BET_WEST_SD/index.m3u8
 
 
 
