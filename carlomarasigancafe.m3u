@@ -5174,6 +5174,8 @@ http://40.160.24.53/MTV2/index.m3u8
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic (576p)
 http://40.160.24.53/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="KPVMLD253.us@HD",Real America's Voice
+https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 
 
 
