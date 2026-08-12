@@ -5243,7 +5243,8 @@ https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
 https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="Free TV",CNN HD (1080i)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568832&extension=ts&play_token=ej8oayJO4Q
 
 
 
