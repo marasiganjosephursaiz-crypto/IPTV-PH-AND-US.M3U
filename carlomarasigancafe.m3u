@@ -5011,6 +5011,8 @@ http://40.160.24.56/BET_JAMS_SD/index.m3u8
 http://40.160.24.56/BET_SOUL_SD/index.m3u8
 #EXTINF:-1 tvg-id="BET.us@West",BET West (720p)
 http://40.160.24.56/BET_WEST_SD/index.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk@SD",CNBC UK (1080p)
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 
 
 
