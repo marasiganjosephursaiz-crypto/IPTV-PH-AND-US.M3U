@@ -305,7 +305,11 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856333&ex
 #EXTVLCOPT:http-referrer=https://tv.garden/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
-
+#EXTINF:-1 group-title="Free TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK WORLD JAPAN
+#EXTVLCOPT:http-origin=https://tv.garden
+#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
 
 
