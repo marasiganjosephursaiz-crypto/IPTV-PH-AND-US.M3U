@@ -1128,7 +1128,8 @@ http://198.16.106.58:8278/Channel5/playlist.m3u8?tid=MA7A4522692345226923&ct=183
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="US Fox News " tvg-logo="" group-title="USA", US Fox News
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/135794
 
-
+#EXTINF:-1  tvg-name="CNN HD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TheTVApp",CNN HD
+https://v5.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=y3ky3IN6VkKgtj8qhMS4Dw&expires=1780722715&user_id=MlZOTXQ5Yms1M3Z3OHBwaTg1UEs3aU
 
 
 
