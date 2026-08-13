@@ -1236,7 +1236,8 @@ https://sr0mvgn.s.gy/Fox_News_Channel_FHD
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/FOXBusiness_2019.svg/revision/latest?cb=20190930114950" group-title="Free TV",Fox Business Network (1080p)
 https://sr0mvgn.s.gy/FOX_Business_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/a/aa/MS-NOW-2025.svg/revision/latest?cb=20251116090852" group-title="Free TV",MS NOW (1080p)
-https://sr0mvgn.s.gy/MSNOW_HD
+#EXTINF:-1 tvg-id="MSNOW.us@SD",MS NOW (720p)
+http://40.160.24.53/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD",One America News Network (1080p)
 http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD",One America News Network (720p)
