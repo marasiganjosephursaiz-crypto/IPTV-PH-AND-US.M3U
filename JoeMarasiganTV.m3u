@@ -1109,7 +1109,11 @@ https://jmp2.uk/stvp-USBD700003L7
 #EXTINF:-1  tvg-name="CNN US HD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TVPass",CNN US HD
 https://tvpass.org/live/CNN/hd
 
-
+60*title*QVC
+60*author*CS
+60*thumbnail*https://i.imgur.com/xWSzQ34.png
+61*file*https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+61*title*NHK World Premium
 
 
 
