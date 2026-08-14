@@ -5249,7 +5249,10 @@ https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="Free TV",CNN HD (1080i)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568832&extension=ts&play_token=ej8oayJO4Q
 
-
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA", US CNBC
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/9815
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US CNBC World" tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA", US CNBC World
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20860
 
 
 
