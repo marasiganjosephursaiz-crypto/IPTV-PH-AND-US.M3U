@@ -5798,6 +5798,372 @@ https://streams.comclark.com/pknsd/tv5monde/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@SD",TVE Internacional Asia Oceania (480p)
 https://streams.comclark.com/pknsd/tve/playlist.m3u8
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/directv.com/directv.com.channels.xml" 
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png", A&E
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://i.imgur.com/pvXZ8DX.png",  ABC
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",  AMC
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/TpCkbkT.png",  ACC Network HD
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png",  American Heros Channel (AHC)
+http://40.160.24.56/AMERICAN_HEROES_CHANNEL_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",  Animal Planet HD
+http://23.239.31.26:8989/animalplanet/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TOM5qO6.png",  ASPIRE (HD)
+http://40.160.24.56/ASPIRE_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png", AXS TV HD
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/WxLHBwu.png",  BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/pTiiPz0.png", BBC America HD
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/L2LZpsj.png",  BET HD
+http://40.160.24.56/BET_EAST_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/oafsrlo.png",  BET Her
+http://40.160.24.56/BET_HER_SD/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png",  Big Ten Network
+http://40.160.24.52/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/R7FCaB5.png", Bloomberg TV HD
+http://40.160.24.56/BLOOMBERG_SD/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",  Boomerang
+http://212.5.144.156:8080/boomerang/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/960px-Bounce_TV_logo.svg.png",  BounceTV
+http://40.160.24.56/BOUNCE_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/JmTIRLF.png",  Bravo
+http://40.160.24.56/BRAVO_SD/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",  Cartoon Network HD
+http://40.160.24.56/CARTOON_NETWORK_EAST_SD/index.m3u8
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",  CBS
+http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/A8CnA8g.png", CBS Sports Network HD
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/6JL79rbZ/IMG-2472.png",  Cinemax Action HD
+http://40.160.24.56/ACTIONMAX_SD/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/m5yymtMw/IMG-2478.png",  Cinemax Classics HD
+http://40.160.24.56/5_STARMAX_SD/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/tTPkXgC8/IMG-2399.png",  Cinemax East HD
+http://40.160.24.56/CINEMAX_EAST_SD/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/Kp7m2G19/IMG-2477.png",  Cinemax Hits HD
+http://40.160.24.56/MOREMAX_SD/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/4w27VFFr/IMG-2468.png",  Cinemáx HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/US0T6DC.png",  Cleo TV
+http://40.160.24.56/Cleo_TV_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/S7DOpdY.png",  CMT HD
+http://40.160.24.56/CMT_SD/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",  CNBC
+http://40.160.24.56/CNBC_SD/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CNBC_World_2025.svg/960px-CNBC_World_2025.svg.png",  CNBC World
+http://40.160.24.56/CNBC_WORLD_SD/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",  CNN En Espanol
+http://179.60.51.134:8888/CNN/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",  CNN HD
+http://40.160.24.56/CNN_SD/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/dfxefQw.png",  CNNi HD East
+http://40.160.24.56/CNN_INTERNATIONAL_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",  Comedy Central HD
+http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/960px-Cooking_Channel.svg.png",  Cooking Channel HD
+http://40.160.24.56/COOKING_CHANNEL_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/0F1c7x4.png", Cowboy Channel
+http://40.160.24.56/THE_COWBOY_CHANNEL_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png",  Cozi TV
+http://40.160.24.56/COZI_TV_SD/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png", CSPAN
+http://40.160.24.56/C-SPAN_HD_SD/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/9B6XIQC.png", CSPAN 2
+http://40.160.24.56/C-SPAN_2_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb5541.png",  Daystar HD
+http://40.160.24.56/DAYSTAR_TV_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png",  Destination America HD
+http://40.160.24.56/DESTINATION_AMERICA_SD/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/pdNGDJ8.png",  Discovery Family Channel HD
+http://40.160.24.56/DISCOVERY_FAMILY_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",  Discovery HD
+http://40.160.24.56/DISCOVERY_CHANNEL_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ObPFgT8.png",  Discovery Life
+http://40.160.24.56/DISCOVERY_LIFE_SD/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/1pQPxu3.png",  Discovery Turbo HD
+https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",  Disney Channel HD
+http://40.160.24.56/Disney_Channel_HD_SD/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",  Disney Junior HD
+https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",  Disney XD HD
+http://40.160.24.56/DISNEY_XD_HD_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TWFDkap.png", E!
+http://40.160.24.56/E_ENTERTAINMENT_EAST_SD/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",  ESPN HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/00tsvjE.png",  ESPN2 HD
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",  ESPNews HD
+https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/HiBrysh.png",  ESPNU HD
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Z9xclnE.png", Family Entertainment Television
+http://40.160.24.52/GetTV/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/YPHrFU0.png", FanDuel TV
+http://40.160.24.55/TVG/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",  Food Network HD
+http://212.5.144.156:8080/foodnetwork/index.m3u8
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",  FOX
+http://40.160.24.56/FOX_SD/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",  FOX Business Network
+http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",  FOX News Channel
+http://40.160.24.56/FOX_NEWS_SD/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/O9BapV9.png",  FOX Sports 1 HD
+http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121815.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/FcqBJS4/IMG-2498.png",  Freeform HD
+http://40.160.24.56/FREEFORM_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png",  Fuse HD
+http://40.160.24.56/FUSE_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/35wTxjfF/IMG-2451.png",  FX HD
+http://40.160.24.56/FX_SD/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/KJnkVT8/IMG-2453.webp",  FX Movie Channel
+http://40.160.24.56/FXM_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/Q7jLGRLN/IMG-2452.png",  FXX HD
+http://40.160.24.56/FXX_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/KzK80Xgp/IMG-2489.webp",  FYI
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121820.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j9kGjw2v/IMG-2470.png",  Galavision HD
+http://200.39.57.254:8008/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",  Game Show Network HD
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/WlHEpAu.png", GEM Shopping Network
+https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png",  Golf Channel
+https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Great_Entertainment_Television_2026.webp/1920px-Great_Entertainment_Television_2026.webp.png", GREAT
+https://gpuserver3.tier1streams.com/GetTV/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TzvnHDn.png",  Great America Family HD
+http://40.160.24.58/GAC_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6w1Wj3j.png", GRIT
+http://40.160.24.58/GRIT_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",  Hallmark Channel HD
+http://40.160.24.53/HALLMARK/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/GPRGA9C.png",  Hallmark Mystery
+http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/N6SN9phR/IMG-2485.png",  HBO Comedy HD
+http://40.160.24.58/HBO_COMEDY_SD/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/sdTjcT6F/IMG-2484.png",  HBO Drama HD East
+http://40.160.24.58/HBO_SIGNATURE_SD/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png",  HBO HD East
+http://40.160.24.58/HBO_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/0V6R2Zt5/IMG-2483.png",  HBO Hits HD East
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/7NkDvSVR/IMG-2488.png",  HBO Latino HD
+https://messi.damitv.st/papi/ts/hbolatino-usa/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/pv3f5J0T/IMG-2486.png",  HBO Movies HD
+http://40.160.24.58/HBO_ZONE_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png",  Heroes & Icons
+http://4.30.180.36:8420/heroes/index.m3u8?token=test
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",  HGTV HD
+http://190.11.225.124:5000/live/hgtv_sd/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",  HISTORY
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",  HLN HD
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/rnZN7rD.png", Home Shopping Network HD
+http://40.160.24.53/HSN/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png", i24 News
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bQdkyF9.png",  IFC
+http://40.160.24.53/IFC/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",  Investigation Discovery HD
+http://212.5.144.156:8080/id/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/960px-ION_Mystery_logo.svg.png",  ION Mystery
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Ion_Television_2013.png",  ION Television East HD
+https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/peuHszg.png", Justice Central HD
+http://40.160.24.53/JUSTICE_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",  Lifetime
+http://40.160.24.53/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/BWmqYTO.png",  Lifetime Movie Network
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/500px-Logo_TV_2015.svg.png", LOGO HD
+http://40.160.24.53/LOGO_TV/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/960px-Magnolia_Network.svg.png", Magnolia Network HD
+http://40.160.24.56/DIY_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png", MeTV
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png", MeTV Toons
+http://206.212.244.63/112/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/sA5V39D.png", MLB Network HD
+https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png", MS Now
+http://40.160.24.53/MSNBC/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png",  MTV Classic
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",  MTV HD
+http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png",  MTV2 HD
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",  Nat Geo Wild HD
+http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",  National Geographic HD
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",  NBA TV HD
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",  NBC
+http://170.254.17.2:80/NBC/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/MTgUVKx.png", NBC Sports Bay Area
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NBC_Sports_California.png/960px-NBC_Sports_California.png", NBC Sports California
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3821.ts
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",  Newsmax TV HD
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NewsNation_logo.svg/960px-NewsNation_logo.svg.png",  NewsNation HD
+http://40.160.24.58/NEWSNATION/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",  NFL Network HD
+http://45.189.62.33:8002/play/a0kk/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/UNZ8bef.png",  NHL Network HD
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/KT4tdQs.png",  Nick Jr. HD
+https://gpuserver5.tier1streams.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/E84jnP8.png",  Nickelodeon East HD
+https://gpuserver5.tier1streams.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/960px-Nicktoons_Logo_2023.svg.png",  Nicktoons
+http://40.160.24.58/NICKTOONS_SD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/A3o9gvc.png",  Ovation HD
+https://gpuserver5.tier1streams.com/OVATION/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png",  OWN HD
+https://gpuserver5.tier1streams.com/OWN/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png", Oxygen True Crime
+https://gpuserver5.tier1streams.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",  Paramount TV
+https://gpuserver5.tier1streams.com/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/Or0LKsu.png",  Paramount+ With Showtime East HD
+https://gpuserver5.tier1streams.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://i.imgur.com/8c8isLj.png",  PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png",  PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/XySNnh0.png", POP HD
+https://gpuserver5.tier1streams.com/POP/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png", Pursuit Channel HD
+https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png", QVC HD
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/NxbDjfI.png", QVC2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/edswdOO.png", QVC3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg", RACER Network
+https://messi.damitv.st/papi/ts/racernetwork-usa/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png", Reelz Channel HD
+https://gpuserver5.tier1streams.com/REELZ/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/eaYnGpH.png", Revolt HD
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",  Science HD
+https://gpuserver5.tier1streams.com/SCIENCE/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/HFmkjiR.png", Scientology Network
+https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png", SEC Network HD
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg", Shop LC HD
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/960px-Showtime_2.svg.png",  SHOWTIME 2 HD
+https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/960px-Showtime_Extreme.svg.png",  Showtime Extreme HD
+https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/960px-Showtime_Family_Zone.svg.png",  Showtime Family & Zone HD
+https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/960px-Showtime_Next.svg.png",  Showtime Next HD
+https://gpuserver5.tier1streams.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/CLyGvZZ.png",  Showtime Showcase HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631890.ts
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wZbJDTSq/IMG-2514.webp",  SHOxBET HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3968.ts
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png", Smithsonian Channel HD
+https://gpuserver5.tier1streams.com/SMITHSONIAN/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/CXauv8M.png", Sportsman Channel
+https://gpuserver5.tier1streams.com/Sportsman_Channel/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/960px-Start_TV_logo.svg.png", Start TV
+https://gpuserver5.tier1streams.com/START_TV/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/ghzzKoT.png",  STARZ Cinema HD
+https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/JpKvjZe.png",  STARZ Comedy HD
+https://gpuserver5.tier1streams.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/N7oSm4d.png",  STARZ East HD
+https://gpuserver5.tier1streams.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/MvH3Cz2.png",  STARZ Edge HD
+https://gpuserver5.tier1streams.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/wIf4X0i.png",  STARZ Encore Action HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3952.ts
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/nkQgShJ.png",  STARZ Encore Black
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3954.ts
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/L6GjoS4.png",  STARZ Encore Classic
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3953.ts
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/B9Yfzdp.png",  STARZ Encore Family
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3957.ts
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/5ieoKO1.png",  STARZ Encore HD
+https://gpuserver5.tier1streams.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/BI4Ksr1.png",  STARZ Encore Suspence
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3958.ts
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/5ieoKO1.png",  STARZ Encore West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3951.ts
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/Eo6yLpN.png",  STARZ Encore Westerns
+https://messi.damitv.st/papi/tv/playlist/aHR0cHM6Ly94YW1lbGVvbi5waGFudGVtbGlzLnRvcC9vbmUvc2VjdXJlLzlhNWQ3ZTk0YjIxMzMzMzdiYWJkNGE3MDI3MzQxZjJkLzE3ODU2NDA4NTEvcHJlbWl1bTk4MS90cmFja3MtdjFhMS9tb25vLm0zdTg
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/g51a2le.png",  STARZ In Black HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3962.ts
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eE9FzEP.png",  STARZ Kids & Family HD
+https://messi.damitv.st/papi/ts/starzkidsfamily-usa/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png",  Sundance TV
+https://gpuserver5.tier1streams.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4fMWhUE.png",  Syfy
+https://gpuserver5.tier1streams.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/960px-TBS_Network-logo.svg.png",  TBS HD
+https://gpuserver5.tier1streams.com/TBS_EAST/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",  TCM HD
+https://gpuserver5.tier1streams.com/TCM/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/960px-TeenNick_logo_2023_%28outline%29.svg.png",  TeenNick
+https://gpuserver5.tier1streams.com/TEEN_NICK/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/tsljAnY.png",  Tennis Channel HD
+https://gpuserver5.tier1streams.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/PIaNjfa.png",  The Weather Channel HD
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/8nqbi9b.png", TheGrio
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",  TLC HD
+https://gpuserver5.tier1streams.com/TLC/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",  TNT HD
+https://gpuserver5.tier1streams.com/TNT_EAST/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RmHGeP1.png",  Travel Channel HD
+https://gpuserver5.tier1streams.com/TRAVEL_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",  TruTV HD
+https://gpuserver5.tier1streams.com/TRUTV/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/oT5CAvd.png",  TUDN HD
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/VNNS4mF.png", TV Land HD
+http://40.160.24.55/TV_LAND/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/tthm8Q5.png",  TV One
+http://40.160.24.55/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",  UniMas West HD
+http://168.228.44.241:9997/play/a09e/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RZ8pIKe.png",  UNIVERSO
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision
+http://190.120.229.48/Univision/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision East HD
+http://15.204.246.24:8080/UnivisionHD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/AvR9LSn.png", UPTV
+http://40.160.24.55/Up_TV/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",  USA Network
+https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",  VH1 HD
+http://40.160.24.55/VH1/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png",  VICE
+https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/3840px-Wetv-july-2024-logo.svg.png", WE TV
+http://40.160.24.55/WE_TV/index.m3u8
 
 
 
