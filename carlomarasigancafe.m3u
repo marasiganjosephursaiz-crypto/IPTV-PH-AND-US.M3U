@@ -5219,7 +5219,6 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="CMT.us@East",CMT (720p)
 http://40.160.24.56/CMT_SD/index.m3u8
 
-
 #EXTINF:-1 group-title="Free TV"  tvg-id="97098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
@@ -5797,6 +5796,19 @@ https://streams.comclark.com/pknsd/tbn/playlist.m3u8
 https://streams.comclark.com/pknsd/tv5monde/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@SD",TVE Internacional Asia Oceania (480p)
 https://streams.comclark.com/pknsd/tve/playlist.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
+#EXTINF:-158 tvg-logo="https://i.imgur.com/ar3ixog.png" grdualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment/Documentary" radio="false",TNT
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/10455
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Entertainment/Documentary",NATIONAL GEOGRAPHIC
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/9277
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Entertainment/Documentary",NATIONAL GEOGRAPHIC WILD
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/11664
+
+#EXTINF:-1  tvg-name="NHK World Japan" tvg-id="Nhk.Japan.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/360px-NHK_World.svg.png" group-title="Entertainment/Documentary",NHK World Japan
+http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1553915080287&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G0CGMZFORK5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+
 
 
 
