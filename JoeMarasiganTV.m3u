@@ -314,7 +314,9 @@ https://code.vthanhtivi.pw/getlink/jptv/2/playlist.m3u8
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
 
-
+**********AM Radio**********
+#EXTINF:-1 group-title="AM Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", INC RADIO
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
 
 
 
