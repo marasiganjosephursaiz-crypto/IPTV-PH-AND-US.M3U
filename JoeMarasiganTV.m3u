@@ -314,6 +314,12 @@ https://code.vthanhtivi.pw/getlink/jptv/2/playlist.m3u8
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 group-title="Free TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", INC RADIO
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/3/33/ABS-CBN_Kapamilya_Channel_Logo_2026.png/revision/latest?cb=20260504151141" group-title="Free TV",Kapamilya Channel
+https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
+
+
+
+
 
 
 
