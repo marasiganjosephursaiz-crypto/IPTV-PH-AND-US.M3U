@@ -5829,6 +5829,10 @@ https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8:AMC+
 #EXTINF:-1 tvg-name="Bounce" group-title="HansSettings USA",Bounce
 http://212.102.60.231/BOUNCE_TV/index.m3u8:Bounce
+#EXTINF:-1 tvg-name="TBS East" group-title="HansSettings USA",TBS East
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855462&extension=ts:TBS East
+#EXTINF:-1 tvg-name="TNT East" group-title="HansSettings USA",TNT East
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855455&extension=ts:TNT East
 
 
 
