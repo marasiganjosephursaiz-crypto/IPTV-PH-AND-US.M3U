@@ -5736,6 +5736,80 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/9315
 #EXTINF:-117 tvg-logo="https://i.imgur.com/bU6a84F.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",TLC
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/46691
 
+#EXTINF:-1 tvg-id="A2Z.ph@SD",A2Z (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+#EXTINF:-1 tvg-id="AllTV.ph@SD",ALLTV2 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+#EXTINF:-1 tvg-id="ANC.ph@SD",ANC (480p)
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+#EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD",Bilyonaryo News Channel (1080p)
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
+#EXTINF:-1 tvg-id="CineMo.ph@SD",Cinemo (480p)
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network
+https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="GTV.ph@SD",GTV (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+#EXTINF:-1 tvg-id="IBC13.ph@SD",IBC 13 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+#EXTINF:-1 tvg-id="JeepneyTV.ph@SD",Jeepney TV (480p)
+https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@SD",Mindanow Network TV
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+#EXTINF:-1 tvg-id="PTV.ph@SD",PTV 4 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RPTV.ph@SD",RPTV (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5.ph@SD",TV5 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+#EXTINF:-1 tvg-id="VegasLifeTV.us@HD",Vegas Life TV
+https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TagalizedMovieChannel.ph@SD",TMC (480p)
+https://streams.comclark.com/pknsd/tmc/playlist.m3u8
+#EXTINF:-1 tvg-id="PBO.ph@SD",PBO (480p)
+https://streams.comclark.com/pknsd/pbo/playlist.m3u8
+#EXTINF:-1 tvg-id="VivaCinema.ph@SD",Viva Cinema (480p)
+https://streams.comclark.com/pknsd/viva/playlist.m3u8
+#EXTINF:-1 tvg-id="AliwChannel23.ph@SD",Aliw Channel 23 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/aliw/playlist.m3u8
+#EXTINF:-1 tvg-id="DZMMTeleRadyo.ph@SD",DZMM TeleRadyo (480p)
+https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph@SD",DZRHTV (480p)
+https://streams.comclark.com/pknsd/dzrh/playlist.m3u8
+#EXTINF:-1 tvg-id="GMATV.ph@SD",GMA TV (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
+#EXTINF:-1 tvg-id="KnowledgeChannel.ph@SD",Knowledge Channel (480p)
+https://streams.comclark.com/pknsd/knowledge/playlist.m3u8
+#EXTINF:-1 tvg-id="INCTV.ph@SD",INC TV (480p)
+https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LightTV.ph@SD",Light TV (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/light_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Net25.ph@SD",NET25 (480p)
+https://streams.comclark.com/pknsd/net_25/playlist.m3u8
+#EXTINF:-1 tvg-id="RJDigiTV.ph@SD",RJTV 29 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/rjtv_29/playlist.m3u8
+#EXTINF:-1 tvg-id="SolarFlix.ph@SD",SolarFlix (480p)
+https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8
+#EXTINF:-1 tvg-id="SolarSports.ph@SD",Solar Sports (480p)
+https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8
+#EXTINF:-1 tvg-id="OneSports.ph@SD",One Sports (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaria.ph@SD",TV Maria (480p)
+https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8
+#EXTINF:-1 tvg-id="UNTV.ph@SD",UNTV (480p)
+https://streams.comclark.com/pknsd/untv/playlist.m3u8
+#EXTINF:-1 tvg-id="OneMediaNetwork.ph@SD",One Media Network (480p)
+https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaOne.ph@SD",Cinema One (480p)
+https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJrAsia.sg@SD",Nick Jr Asia (1080p)
+https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
+#EXTINF:-1 tvg-id="Myx.ph@SD",Myx (480p)
+https://streams.comclark.com/pknsd/myx/playlist.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph@HD",Kapamilya Channel HD (1080p)
 https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialClassicMovies.hk@SD",Celestial Classic Movies (480p)
@@ -5788,7 +5862,7 @@ https://streams.comclark.com/pknsd/nhk_bs1/playlist.m3u8
 https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk@SD",Phoenix Chinese Channel (480p)
 https://streams.comclark.com/pknsd/phoenix/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannel.jp@SD",Star Channel (480p)
+#EXTINF:-1 tvg-id="StarChannel.jp@SD",Star Channel (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNAsia.us@SD",TBN Asia (480p)
 https://streams.comclark.com/pknsd/tbn/playlist.m3u8
@@ -5796,6 +5870,11 @@ https://streams.comclark.com/pknsd/tbn/playlist.m3u8
 https://streams.comclark.com/pknsd/tv5monde/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@SD",TVE Internacional Asia Oceania (480p)
 https://streams.comclark.com/pknsd/tve/playlist.m3u8
+#EXTINF:-1 tvg-id="LotusTV.mo@SD",Lotus TV (1080p)
+https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="RockofManilaTV.ph@SD",Rock of Manila TV (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/rock_tv_of_manila/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
 #EXTINF:-158 tvg-logo="https://i.imgur.com/ar3ixog.png" grdualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment/Documentary" radio="false",TNT
@@ -5817,65 +5896,14 @@ https://stream.kdlc.click/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD",Hope Channel Philippines (1080p)
 https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 
-#EXTINF:-1 tvg-id="AccuWeatherNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AccuWeather.png/960px-AccuWeather.png" group-title="Weather",AccuWeather Network (720p)
-http://206.212.244.63/674/index.m3u8
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us@SD" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather",AccuWeather Now (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather (1080p)
-https://foxweather-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWeatherNetwork.ca@SD" tvg-logo="https://i.imgur.com/V6ZUwUY.png" group-title="Weather",The Weather Network (720p)
-https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
-#EXTINF:-1 tvg-name="AMC+" group-title="HansSettings USA",AMC+
-https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8:AMC+
-#EXTINF:-1 tvg-name="Bounce" group-title="HansSettings USA",Bounce
-http://212.102.60.231/BOUNCE_TV/index.m3u8:Bounce
-#EXTINF:-1 tvg-name="TBS East" group-title="HansSettings USA",TBS East
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855462&extension=ts:TBS East
-#EXTINF:-1 tvg-name="TNT East" group-title="HansSettings USA",TNT East
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=855455&extension=ts:TNT East
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (720p)
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD",ESPN Deportes HD (720p)
+https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@HD",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
 
 
