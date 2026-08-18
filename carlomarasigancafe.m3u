@@ -4422,6 +4422,11 @@ http://40.160.24.56/CNBC_SD/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (1080p)
 http://40.160.24.56/CNBC_SD/index.m3u8
 
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="USA", US CNN
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/1817
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="" group-title="USA", US CNN
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/104884
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW cofps", US: CNN 4K
 https://sr0mvgn.s.gy/CNN_US_4K
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW cofps", US: CNN HD
@@ -4602,7 +4607,6 @@ http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856409&exten
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/4/4b/CineMo%21.png/revision/latest?cb=20231202173323" , CineMO!
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856402&extension=ts&play_token=0lnadSGg8t
-
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Cinema_One?file=CinemaOne.svg" , Cinema One Global
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856333&extension=ts&play_token=dm6Bzs2abJ
@@ -5910,6 +5914,10 @@ https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-zeasnus/playlist.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us@SD",OANPlus (1080p)
 https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="USA", US CNN
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/1817
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="" group-title="USA", US CNN
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/104884
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV", CNN International HD
 https://sr0mvgn.s.gy/CNN_US_4K
