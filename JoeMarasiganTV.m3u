@@ -1110,7 +1110,6 @@ http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568831&exten
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/TFCASIA.png" group-title="PH| PHILIPINES HD/RAW",TFC ASIA
 http://pro.8k.yachts: 80/play/live.php?mac=00:1A:79:05:24:80&stream=1856379&extension=ts&play_token=0JvlzFjVAp
 
-
 #EXTINF:-1 tvg-id="Channel8.sg@SD",Channel 8 (720p)
 https://cdn.qd.je/163189/ch8
 #EXTINF:-1 tvg-id="ChannelU.sg@SD",Channel U (720p)
@@ -1126,7 +1125,6 @@ http://40.160.24.56/CNBC_SD/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (720p)
 http://40.160.24.56/CNBC_WORLD_SD/index.m3u8
 
-
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="USA", US CNN
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/1817
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="" group-title="USA", US CNN
@@ -1139,7 +1137,7 @@ EXTINF:-1 channel-id="USBD700003L7" tvg-id="USBD700003L7" tvg-chno="1130" tvg-na
 https://jmp2.uk/stvp-USBD700003L7
 
 #EXTINF:-1  tvg-name="CNN US HD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TVPass",CNN US HD
-https://tvpass.org/live/CNN/hd
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/1817
 
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
