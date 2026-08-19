@@ -423,8 +423,6 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
 http://206.212.244.63/168/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="KPVMLD254.us@SD",KPVM OAN Plus
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
@@ -1147,7 +1145,7 @@ http://198.16.106.58:8278/Channel5/playlist.m3u8?tid=MA7A4522692345226923&ct=183
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/135794
 
 #EXTINF:-1  tvg-name="CNN HD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TheTVApp",CNN HD
-https://v5.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=y3ky3IN6VkKgtj8qhMS4Dw&expires=1780722715&user_id=MlZOTXQ5Yms1M3Z3OHBwaTg1UEs3aU
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/1817
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6sf2Tn.png" group-title="Anime/Cartoons", Mr. Bean Animated
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
