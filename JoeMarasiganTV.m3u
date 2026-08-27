@@ -42,6 +42,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
 #EXTINF:-1 tvg-id="https://www.abante.com.ph/wp-content/uploads/2026/06/ABANTE-GENERIC.png" group-title="Free TV", Abante HD
 https://sr0mvgn.s.gy/ABANTE
+#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/e/ec/One_News.png/revision/latest?cb=20230314060553" group-title="Free TV",OneNews
+https://sr0mvgn.s.gy/OneNewsHD
 #EXTINF:-1 tvg-id="https://www.abante.com.ph/wp-content/uploads/2026/06/ABANTE-GENERIC.png" group-title="Free TV", Abante
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Free TV" tvg-logo="https://zbni.ph/wp-content/uploads/2025/03/Light-TV-final_DM-black-scaled.webp" ,Light TV	
