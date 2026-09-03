@@ -455,9 +455,16 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:49:48:A4&stream=1568833&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:49:48:A4&stream=2011486&extension=ts&play_token=UzpzhaumUa
 
 
-**********Cignal-TV**********
+**********Cignal**********
 
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Cignal_%282025%29.svg/revision/latest?cb=20250725085326"
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="Cignal", One Sports HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69f5a2318d744c609b125e3a7d8f2046:182523c0bae912e17e916dd4283280e9
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="Cignal",Bilyonaryoch
 #KODIPROP:inputstream.adaptive.license_type=clearkey
