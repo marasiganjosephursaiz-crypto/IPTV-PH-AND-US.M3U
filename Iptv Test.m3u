@@ -11,16 +11,5 @@ https://sr0mvgn.s.gy/CNBCHD
 https://sr0mvgn.s.gy/CNBCWORLD
 
 
-#EXTINF:-1 tvg-id="6097" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/vZcHWrOk4qXSjGh.png",FOX NEWS
-https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="6097" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/vZcHWrOk4qXSjGh.png",FOX News Channel
-http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/267.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="CNBC" tvg-logo="https://s2.loli.net/2025/07/13/NVwpYOg9BZRCFfm.png" group-title="国际新闻",CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="688" group-title="国际新闻" tvg-logo="https://s2.loli.net/2025/07/13/NVwpYOg9BZRCFfm.png",CNBC
-http://143.244.60.30/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="6113" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/07/30/nQyJURF46m92cOh.png",NHK World
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 tvg-id="7110" group-title="国际新闻" tvg-logo="https://s2.loli.net/2023/09/16/Ps5UK3gqxpCej6a.png",NHK Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-id="cg_cnnhd" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN International
+https://ott.djdoolky76.io/api/streams/21/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
