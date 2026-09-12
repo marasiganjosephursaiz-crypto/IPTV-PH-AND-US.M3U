@@ -6333,6 +6333,15 @@ https://sr0mvgn.s.gy/CNBCWORLD
 
 
 
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA", US CNBC
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/9815
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US CNBC World" tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA", US CNBC World
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20860
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="USA", US CNN
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/1817
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="" group-title="USA", US CNN
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/104884
+
 
 
 
