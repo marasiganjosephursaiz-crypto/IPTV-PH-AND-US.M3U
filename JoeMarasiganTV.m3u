@@ -255,7 +255,7 @@ http://23.239.31.26:8989/accuweather/index.m3u8
 
 
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/250px-CNN_International_logo.svg.png", CNBC
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://i.imgur.com/b6JmGBq.png", CNBC HD 
 http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 
 
