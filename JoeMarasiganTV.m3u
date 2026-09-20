@@ -150,6 +150,12 @@ https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
 https://sr0mvgn.s.gy/OneNewsHD
 
+#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/e/ec/One_News.png/revision/latest?cb=20230314060553" group-title="Free TV", Joe Marasigan TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
+https://sr0mvgn.s.gy/JoeMarasiganTV
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ed/DZRJ_Radyo_Bandido_810_AM_Logo_2022.png/revision/latest?cb=20250927224748" group-title="Free TV", Radyo Bandido TV
 http://136.239.173.2:6610/001/2/ch00000090990000001338/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAquM2DhqYshrFbBoS4HC4mc2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001829&contentid=ch00000000000000001829&videoid=ch00000090990000001338&recommendtype=0&userid=1573154325684&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LFDH1A45249XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
