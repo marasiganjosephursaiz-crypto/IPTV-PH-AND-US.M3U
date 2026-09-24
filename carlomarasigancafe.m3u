@@ -4463,7 +4463,8 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/1817
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/104884
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW cofps", US: CNN 4K
-https://sr0mvgn.s.gy/CNN_US_5K
+http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?28443" group-title="US NEWS HD/RAW cofps", US: CNN HD
 https://sr0mvgn.s.gy/CNN_US_5K
 
