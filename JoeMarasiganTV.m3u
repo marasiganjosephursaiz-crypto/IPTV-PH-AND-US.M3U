@@ -86,7 +86,6 @@ https://sr0mvgn.s.gy/CNN_US2
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/cnn-live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 https://sr0mvgn.s.gy/CNN_US_5K
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Free TV",NewsMax TV HD
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
