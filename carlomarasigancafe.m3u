@@ -3459,7 +3459,7 @@ https://gpuserver3.tier1streams.com/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network (720p)
 https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNetwork.us@SD",AccuWeather Network (720p)
-https://gpuserver3.tier1streams.com/AccuWeather/index.m3u8
+https://sr0mvgn.s.gy/AccWeather
 #EXTINF:-1 tvg-id="AMCPlus.us@SD",AMC+ (720p)
 https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="AntennaTV.us@SD",Antenna TV (576p)
