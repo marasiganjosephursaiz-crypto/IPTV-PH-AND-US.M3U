@@ -1235,7 +1235,20 @@ https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/a
 https://freem3u.xyz/api/live/play.m3u8?vid=9855
 #EXTINF:-1 tvg-id="CNBCEurope.uk@SD",CNBC Europe (1080p)
 http://57.128.231.171:8080/234/index.m3u8
-
+#EXTINF:-1 tvg-id="MSNOW.us@SD",MS NOW
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+https://p13.usnlive.com/stream/msnbc.m3u8
+#EXTINF:-1 tvg-id="CNN.us@SD",CNN
+#EXTVLCOPT:http-referrer=https://usnewson.com
+https://p13.usnlive.com/stream/cnn.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD",One America News Network
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+https://p14.usnlive.com/stream/oann.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://p14.usnlive.com/stream/foxnews.m3u8
 
 
 
