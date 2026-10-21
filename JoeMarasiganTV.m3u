@@ -1231,6 +1231,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us@SD",CNN (1080p)
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01919-cnnus-cnnus-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg@HD",CNBC Asia HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
+#EXTINF:-1 tvg-id="CNBCEurope.uk@SD",CNBC Europe (1080p)
+http://57.128.231.171:8080/234/index.m3u8
 
 
 
