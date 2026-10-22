@@ -6380,7 +6380,9 @@ https://p14.usnlive.com/stream/oann.m3u8
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 https://p14.usnlive.com/stream/foxnews.m3u8
 
-
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://p14.usnlive.com/stream/foxnews.m3u8
 
 
 
