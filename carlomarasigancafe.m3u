@@ -6384,7 +6384,14 @@ https://p14.usnlive.com/stream/foxnews.m3u8
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 https://p14.usnlive.com/stream/foxnews.m3u8
 
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (1080p)
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (576p)
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxWeather.us@SD",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
 
 
 
