@@ -13,3 +13,17 @@ https://sr0mvgn.s.gy/CNBCWORLD
 
 #EXTINF:-1 tvg-id="cg_cnnhd" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN International
 https://ott.djdoolky76.io/api/streams/21/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+
+#EXTINF:-1, Mediacorp Suria
+http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
+#EXTINF:-1, Mediacorp Vasantham
+http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
+#EXTINF:-1, Mediacorp Channel U
+http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+#EXTINF:-1, Mediacorp Channel 5
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+#EXTINF:-1, Mediacorp Channel 8
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+#EXTINF:-1, CNA
+http://185.180.221.194:8278/streams/d/cna/playlist.m3u8
