@@ -124,9 +124,12 @@ http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Free TV", Channel News Asia 
 http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 group-title="Free TV"  tvg-id="97098" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1280px-Mediacorp_Channel_5_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", Channel 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
-https://m3ufilter.media4u.top/live/media4u/media4u/16133.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Free TV", Channel News Asia 
 https://pop15-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMjkyOTEwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy80MzMvSExTX0NsZWFuX01ITF82cy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNmZGRiMmZmZmI3YTljMzAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MCIsInNvdXJjZXMiOls0OTVdfQ==.scNS8fd-otZN44jgzwMnhHvSytCzyZ8RRGx5Whbf6N5cl3eY8GtWDwlFQNe6dRiVMgFyohY73V6x1XVC-uEUaw==/live/eds/433/HLS_Clean_MHL_6s/index.m3u8?screen=MHL&uid=64230292
