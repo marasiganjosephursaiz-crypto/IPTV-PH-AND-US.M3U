@@ -126,7 +126,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 group-title="Free TV"  tvg-id="97098" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1280px-Mediacorp_Channel_5_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
-https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+http://caonima.898757.xyz/l/6M8_WU-7JbjOeK1AOBhFpO47EeFGoqQl3KYgaJ_ZV7x0aj3vSTqMx84CvnqU-JrH/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
