@@ -161,7 +161,7 @@ https://sr0mvgn.s.gy/OneNewsHD
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us@SD"group-title="Free TV", CNN en Espanol
-https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/e/ec/One_News.png/revision/latest?cb=20230314060553" group-title="Free TV", Joe Marasigan TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
