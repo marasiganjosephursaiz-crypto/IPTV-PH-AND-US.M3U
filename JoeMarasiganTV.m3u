@@ -124,9 +124,6 @@ http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Free TV", Channel News Asia 
 http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 group-title="Free TV"  tvg-id="97098" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1280px-Mediacorp_Channel_5_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", Channel 5
-https://epgshare01.online/epgshare01/epg_ripper_SG1.pdf
-https://epgshare01.online/epgshare01/epg_ripper_SG1.txt
-https://epgshare01.online/epgshare01/epg_ripper_SG1.xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 http://caonima.898757.xyz/l/6M8_WU-7JbjOeK1AOBhFpO47EeFGoqQl3KYgaJ_ZV7x0aj3vSTqMx84CvnqU-JrH/index.m3u8
