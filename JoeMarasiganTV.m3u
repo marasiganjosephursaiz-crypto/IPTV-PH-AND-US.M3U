@@ -279,40 +279,6 @@ http://23.239.31.26:8989/accuweather/index.m3u8
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://i.imgur.com/b6JmGBq.png", CNBC HD 
 http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest?cb=20250804025829" ,TBS HD
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325803&extension=ts&play_token=zIR30I2A70
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/1280px-USA_Network_2020.svg.png" ,USA Network HD
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=610437&extension=ts&play_token=Mzxbj5etOP
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/1280px-USA_Network_2020.svg.png/revision/latest?cb=20240917045835" ,USA Network East HD
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325924&extension=ts&play_token=szgz5nJ1dk
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/1280px-USA_Network_2020.svg.png" ,USA Network West HD
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=325884&extension=ts&play_token=MMxJpbq4HI
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , BBC AMERICA HD
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1536965&extension=ts&play_token=MVEU4LYSf7
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Kapatid Online SD
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856285&extension=ts&play_token=7icYwvBIwj
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" , Kapatid Online SD 1
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856331&extension=ts&play_token=Xt8Ietz0Ai
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/2/24/Jeepney_TV_Logo_2015.png/revision/latest?cb=20240906054842" , Jeppney TV
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856439&extension=ts&play_token=Gla1VdWYY8
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856276&extension=ts&play_token=I91BXa2tqd
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC CANADA
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=1856343&extension=ts&play_token=fcaYgMWkyM
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC North America
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856345&extension=ts&play_token=fk7kSbsBEl
-
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" ,TFC Australia
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1856379&extension=ts&play_token=eBPMx6LovK
 
@@ -496,10 +462,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/bilyonaryoch/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default/index.mpd
-#EXTINF:-1 tvg-id="truefm_tv" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/4514F052-94DC-47C5-8BB1-DA42BD5F2F57/0-16x9.jpg?width=1980" group-title="Cignal",True FM TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c4e9a516d724f30b2187a3c5e9d6041:e25c167573772b510ff8e5282560a349
-https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd
 #EXTINF:-1 tvg-id="cg_hitsnow" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=1980" group-title="Cignal",Hits Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
