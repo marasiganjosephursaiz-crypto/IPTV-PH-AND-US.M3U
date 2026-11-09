@@ -94,18 +94,14 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
-Channel 5,http://pixman.passwdwork.us.ci/smt/Channel5HD/
-Channel 5 backup,http://pixman.passwdwork.us.ci/smt/Mewatch_ch5/
-Channel 8,http://pixman.passwdwork.us.ci/smt/Channel8HD/
-Channel 8 backup,http://pixman.passwdwork.us.ci/smt/Mewatch_ch8/
-Channel U,http://pixman.passwdwork.us.ci/smt/ChannelU/
-Channel U backup,http://pixman.passwdwork.us.ci/smt/Mewatch_chU/
-Suria,http://pixman.passwdwork.us.ci/smt/Suria/
-Suria backup,http://pixman.passwdwork.us.ci/smt/Mewatch_Suria/
-Vasantham,http://pixman.passwdwork.us.ci/smt/Vasantham/
-Vasantham backup,http://pixman.passwdwork.us.ci/smt/Mewatch_Vasantham/
-CNA backup1,http://pixman.passwdwork.us.ci/smt/Mewatch_cna/
-CNA backup2,http://pixman.passwdwork.us.ci/smt/cna_twn/
-CNN,http://pixman.passwdwork.us.ci/smt/Cnn/
-CNN backup,http://pixman.passwdwork.us.ci/smt/cnn_twn/
-CNA,http://pixman.passwdwork.us.ci/smt/cna/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="MuZu | Mediacorp",CHANNEL 5
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="MuZu | Mediacorp",CHANNEL 5
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
