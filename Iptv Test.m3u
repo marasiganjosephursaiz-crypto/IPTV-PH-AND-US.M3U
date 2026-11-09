@@ -92,3 +92,20 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="1007" tvg-chno="1007" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350553'&EntityType='Item'&EntityId='229212'&Width=237&Height=237&ImageUrl='3350553.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+
+
+Channel 5,http://pixman.passwdwork.us.ci/smt/Channel5HD/
+Channel 5 backup,http://pixman.passwdwork.us.ci/smt/Mewatch_ch5/
+Channel 8,http://pixman.passwdwork.us.ci/smt/Channel8HD/
+Channel 8 backup,http://pixman.passwdwork.us.ci/smt/Mewatch_ch8/
+Channel U,http://pixman.passwdwork.us.ci/smt/ChannelU/
+Channel U backup,http://pixman.passwdwork.us.ci/smt/Mewatch_chU/
+Suria,http://pixman.passwdwork.us.ci/smt/Suria/
+Suria backup,http://pixman.passwdwork.us.ci/smt/Mewatch_Suria/
+Vasantham,http://pixman.passwdwork.us.ci/smt/Vasantham/
+Vasantham backup,http://pixman.passwdwork.us.ci/smt/Mewatch_Vasantham/
+CNA backup1,http://pixman.passwdwork.us.ci/smt/Mewatch_cna/
+CNA backup2,http://pixman.passwdwork.us.ci/smt/cna_twn/
+CNN,http://pixman.passwdwork.us.ci/smt/Cnn/
+CNN backup,http://pixman.passwdwork.us.ci/smt/cnn_twn/
+CNA,http://pixman.passwdwork.us.ci/smt/cna/
