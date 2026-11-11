@@ -9,6 +9,8 @@ https://sr0mvgn.s.gy/FOX_WEATHER
 https://sr0mvgn.s.gy/CNN_US_5K
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mzhoNBG.png" group-title="Free TV", Abante News TV
 https://sr0mvgn.s.gy/ABANTE
+https://live-manifest.production-public.tubi.io/live/cfadd98c-b8e5-4150-af1a-aad9487a82ee/playlist.m3u8
+#EXTINF:-1 tvg-id="673411" tvg-logo="https://canvas-lb.tubitv.com/opts/ZiXULUiKSeFNHQ==/6f7f3b3f-a050-4254-82eb-2c705dab77a6/CHgQeDoFMS4xLjlAAQ==" group-title="Games & Competition",Game Show Central
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dbY3VRH.jpg" group-title="News",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
