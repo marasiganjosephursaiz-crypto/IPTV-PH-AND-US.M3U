@@ -1482,6 +1482,8 @@ http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/7323
 http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17639
 #EXTINF:-1, group-title="USA", Fox News  
 http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/1818
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Fox-weather-logo-stacked-color.svg/revision/latest?cb=20250826151507" group-title="USA",Fox Weather
+https://sr0mvgn.s.gy/FOX_WEATHER
 #EXTINF:-1, group-title="USA", Fox Sports 1 
 http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/1846
 #EXTINF:-1, group-title="USA", Fox Sports 2 (A)
@@ -1734,6 +1736,21 @@ http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/83724
 http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/85232
 
 
+**********LIVE REVIEW-**********
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="LIVE REVIEW", PBB 3.0 ALL ACESS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="LIVE REVIEW", PBB 3.0 MAIN LIVE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
+https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
 
 
 
