@@ -41,7 +41,13 @@ http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Converge", IBC 13
 http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-	
+
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Converge", ALL TV
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Converge", GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png" group-title="Converge",BBC News
 http://136.239.158.30:6610/001/2/ch00000090990000001095/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001218&contentid=ch00000000000000001218&videoid=ch00000090990000001095&recommendtype=0&userid=1001363869638&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MC1HG0HEY2EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -176,8 +182,6 @@ http://136.239.158.30:6610/001/2/ch00000090990000001134/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70HMV2A.png" group-title="Converge", Premier Sports
 http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Converge", GTV
-http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
 #EXTINF:-1 tvg-id="nhk_japan" group-title="Converge" tvg-logo="https://i.imgur.com/3zp7a0B.png",NHK World Japan
 http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1553915080287&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G0CGMZFORK5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -247,9 +251,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87H
 	
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Converge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-	
-#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Converge", ALL TV
-http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbjwXj8.jpeg" group-title="Converge", Filam TV
 http://136.239.159.18:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
