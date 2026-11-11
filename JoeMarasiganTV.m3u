@@ -1237,19 +1237,34 @@ https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 
 **********LIVE REVIEW-**********
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="LIVE REVIEW", PBB 3.0 ALL ACESS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="LIVE REVIEW", PBB 3.0 ALL ACESS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
+#KODIPROP:inputstream.adaptive.license_key=8150b74d16324bb4b2ff62e3e202fc7a:0c5ed4f9db9d4ee61bbc91b3a51ef8b5
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="LIVE REVIEW", PBB 3.0 MAIN LIVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="LIVE REVIEW", PBB 3.0 DINNING AREA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
-https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ea6588d030c94ca89925ac0c49974430:3e6de4afee1eff8e14f9506b76ac9ee6
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="LIVE REVIEW", PBB 3.0 ETERNAL DEN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b750a40736a24e60b5a4f256208b92c5:af07292597f692726dcac2bd297ddf8e
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="RYANTV FREETV", PBB 3.0 MAIN LIVE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
+https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
+
 
 
 
