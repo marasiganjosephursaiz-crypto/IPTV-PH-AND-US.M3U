@@ -20,6 +20,45 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="Charge.us@SD",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15950.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN NEWS
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15952.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN U
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15949.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  TNT HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15955.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 1
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15929.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15928.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 3
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15927.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 5
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15925.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  TRU TV
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN1
+https://tvsen5.aynaott.com/tsn1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN2
+https://tvsen5.aynaott.com/tsn2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN3
+https://tvsen5.aynaott.com/tsn3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN2 HD
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN U HD
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Cgnl.Nba.ph" tvg-logo="https://i.imgur.com/RcxNoIC.png" group-title="NBA CHANNEL🏀",NBA TV Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
