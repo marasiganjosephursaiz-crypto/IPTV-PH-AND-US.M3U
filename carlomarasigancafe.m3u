@@ -59,6 +59,14 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN U HD
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
+#EXTINF:-1 tvg-id="FoxNewsInternational.us@SD",Fox News International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/124/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/125/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Cgnl.Nba.ph" tvg-logo="https://i.imgur.com/RcxNoIC.png" group-title="NBA CHANNEL🏀",NBA TV Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
