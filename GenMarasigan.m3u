@@ -35,6 +35,12 @@ https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ed/PTV_4_Logo_June_2017.png/revision/latest?cb=20241031144559" group-title="Free TV", PTV
+http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Free TV", IBC 13
+http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Free TV", Channel News Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
