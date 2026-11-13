@@ -28,14 +28,6 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15952.ts?thanos1975
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15949.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",  TNT HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15955.ts?thanos1975
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 1
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15929.ts?thanos1975
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 2
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15928.ts?thanos1975
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 3
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15927.ts?thanos1975
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 5
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15925.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",  TRU TV
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
@@ -58,6 +50,11 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN U HD
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD",Phoenix Infonews Channel HD
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD",Phoenix Infonews Channel
+http://125.210.152.18:9090/live/FHZX_1200.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsInternational.us@SD",Fox News International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
