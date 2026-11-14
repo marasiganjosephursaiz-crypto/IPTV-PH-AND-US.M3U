@@ -1,7 +1,16 @@
 Test
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8 
+#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68789069812d49479a333c699931ac72:80b9ca05761a15a2243f8ff3897de476
+https://fta.singteltvgo.com/out/v1/447a44fdc4d345e18cb4d3c5f09f78bd/manifest.mpd|X-Forwarded-For=119.56.77.101
+
+#EXTINF:-1 group-title="Singapore" tvg-id="Ch.5.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721245%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=1920&Height=1080",Channel 5 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
