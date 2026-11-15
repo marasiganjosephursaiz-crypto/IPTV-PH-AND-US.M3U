@@ -226,34 +226,6 @@ https://sr0mvgn.s.gy/HGTV
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Ion_Television_%282021%29.svg/revision/latest?cb=20210412034718" ,ION EAST
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568734&extension=ts&play_token=AGDoD8dIqx
 
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/ID-2020.svg/revision/latest?cb=20200413032314" ,Investigation Discovery
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568736&extension=ts&play_token=o8xPKk21hF
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest?cb=20210606163834" ,TLC
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568606&extension=ts&play_token=C7p9qheEWa
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Turner_Classic_Movies_2021.svg/revision/latest?cb=20210901224657" ,TCM
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568620&extension=ts&play_token=oWy58lIrct
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest?cb=20250804025829" ,TBS
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568621&extension=ts&play_token=H9HkRw0tyt
-
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Tennis_Channel_2026.png/revision/latest?cb=20260329140002" ,TENNIS CHANNEL
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568618&extension=ts&play_token=83nO7fM4Em
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Tennis_Channel_2026.png/revision/latest?cb=20260329140002" ,TENNIS CHANNNEL 2
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568617&extension=ts&play_token=6htmvs3aPx
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Travel_Channel_2018_alt.svg/revision/latest?cb=20260404141057" ,Travel Channel
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568599&extension=ts&play_token=QoTKCuzCyF
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest?cb=20201128113457" , TNT
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568603&extension=ts&play_token=NYpPhwgpEH
-
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TruTV_2014.svg/revision/latest?cb=20251223195656" ,TRUTV
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1568596&extension=ts&play_token=0INUnDVeG2
-
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" ,TRUE CRIME NOW
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1568597&extension=ts&play_token=SWqeyGePdY
 
@@ -290,8 +262,6 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1856341&exte
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Kapatid_Channel_%282026%29.svg/revision/latest?cb=20260501103945" ,Kapatid
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:4C:63:E6&stream=1856339&extension=ts&play_token=9D4a3QgjJx
 
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://i.imgur.com/npj41pk.png" , DZMM TeleRadyo
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:05:24:80&stream=1856409&extension=ts&play_token=pCSQoCNgbl
 
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News Channel
 #KODIPROP:inputstream.adaptive.manifest_type=hls
