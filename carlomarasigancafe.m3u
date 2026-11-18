@@ -1740,426 +1740,512 @@ http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
-#EXTINF:-1, group-title="USA", -Disney Jr
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/41960
-#EXTINF:-1, group-title="USA", :  Showtime NEXT
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9316
-#EXTINF:-1, group-title="USA", :  STARZ EDGE 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/16143
-#EXTINF:-1, group-title="USA", NBC (KXAN) Austin 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17749
-#EXTINF:-1, group-title="USA", -Disney Jr
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/41960
-#EXTINF:-1, group-title="USA", ESPN NEWS
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17707
-#EXTINF:-1, group-title="USA", MASN (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/65697
-#EXTINF:-1, group-title="USA", MASN2 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/65698
-#EXTINF:-1, group-title="USA", MSG2 (F)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21089
-#EXTINF:-1, group-title="USA", NBC Sports Bay Area (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9900
-#EXTINF:-1, group-title="USA", NBC Sports Boston (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20939
-#EXTINF:-1, group-title="USA", NBC Sports California (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20940
-#EXTINF:-1, group-title="USA", NBC Sports Chicago 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20941
-#EXTINF:-1, group-title="USA", NBC Sports Network (FHD) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20926
-#EXTINF:-1, group-title="USA", NBC Sports Philly (F)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20943
-#EXTINF:-1, group-title="USA", NBC Sports Washington (F)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20944
-#EXTINF:-1, group-title="USA", ESPN SEC Network 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17608
-#EXTINF:-1, group-title="USA", Spectrum SportsNet LA Dodgers (HD) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/31636
-#EXTINF:-1, group-title="USA", Spectrum SportsNet Lakers (FHD) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21842
-#EXTINF:-1, group-title="USA", Tennis Channel
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20184
-#EXTINF:-1, group-title="USA", YES Network
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/57972
-#EXTINF:-1, group-title="USA",  Court TV
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21092
-#EXTINF:-1, group-title="USA", Pop 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20976
-#EXTINF:-1, group-title="USA", :  Showtime NEXT
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9316
-#EXTINF:-1, group-title="USA", :  STARZ EDGE 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/16143
-#EXTINF:-1, group-title="USA", UniMas  
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/57969
-#EXTINF:-1, group-title="USA", Univision (East) (SP)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/15336
-#EXTINF:-1, group-title="USA", Spectrum SportsNet Lakers (FHD) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20946
-#EXTINF:-1, group-title="USA", 5 StarMax
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/13381
-#EXTINF:-1, group-title="USA", : A&E
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/59056
-#EXTINF:-1, group-title="USA", A&E (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/2201
-#EXTINF:-1, group-title="USA", : ABC
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/22990
-#EXTINF:-1, group-title="USA", ACC Network (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9273
-#EXTINF:-1, group-title="USA", ActionMAX (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21013
-#EXTINF:-1, group-title="USA", Altitude Sports HD 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/79545
-#EXTINF:-1, group-title="USA", AMC 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/18925
-#EXTINF:-1, group-title="USA", American Heroes Channel 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10456
-#EXTINF:-1, group-title="USA", Animal Planet 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17870
-#EXTINF:-1, group-title="USA", Antenna TV 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20180
-#EXTINF:-1, group-title="USA", Aspire (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21927
-#EXTINF:-1, group-title="USA", AXS TV 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/48324
-#EXTINF:-1, group-title="USA", : Baby First HD
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/58765
-#EXTINF:-1, group-title="USA", BBC America
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20194
-#EXTINF:-1, group-title="USA", : Bet Gospel
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/66080
-#EXTINF:-1, group-title="USA", BET (East)  
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/13702
-#EXTINF:-1, group-title="USA", : BET SOUL
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21844
-#EXTINF:-1, group-title="USA", Big Ten HD
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9828
-#EXTINF:-1, group-title="USA", Bloomberg
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/15158
-#EXTINF:-1, group-title="USA", Boomerang 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/14741
-#EXTINF:-1, group-title="USA", Bounce XL 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/48323
-#EXTINF:-1, group-title="USA", Bravo (East)   
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20859
-#EXTINF:-1, group-title="USA", BUZZR (STV)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21896
-#EXTINF:-1, group-title="USA", Cartoon Network 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46708
-#EXTINF:-1, group-title="USA", CBS Sports Network HD 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10454
-#EXTINF:-1, group-title="USA", CBS News 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21259
-#EXTINF:-1, group-title="USA", Cinemax (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/13380
-#EXTINF:-1, group-title="USA", : CMT
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46706
-#EXTINF:-1, group-title="USA", : CMT HD
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10476
-#EXTINF:-1, group-title="USA", CNBC 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9815
-#EXTINF:-1, group-title="USA", CNBC World
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20860
-#EXTINF:-1, group-title="USA", CNN 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/1817
-#EXTINF:-1, group-title="USA", CNN 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/104884
-#EXTINF:-1, group-title="USA", Comedy Central (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/7466
-#EXTINF:-1, group-title="USA", Comet (S)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/66244
-#EXTINF:-1, group-title="USA", Cooking Channel 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9229
-#EXTINF:-1, group-title="USA", Cozi
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/11868
-#EXTINF:-1, group-title="USA", Decades 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20189
-#EXTINF:-1, group-title="USA", Destination America (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/14222
-#EXTINF:-1, group-title="USA", Discovery Channel (East)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46720
-#EXTINF:-1, group-title="USA", Discovery Channel East 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9811
-#EXTINF:-1, group-title="USA", : DISCOVERY FAMILY
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10538
-#EXTINF:-1, group-title="USA", : Discovery Life HD
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9861
-#EXTINF:-1, group-title="USA", Magnolia Network 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10503
-#EXTINF:-1, group-title="USA", E! Entertainment Television East 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/11651
-#EXTINF:-1, group-title="USA", EPIX (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/13214
-#EXTINF:-1, group-title="USA", Epix Drive IN (S)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/14193
-#EXTINF:-1, group-title="USA", : Epix Hits
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/12744
-#EXTINF:-1, group-title="USA", EPIX2 (East)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/12730
-#EXTINF:-1, group-title="USA", ESPN 2 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/2210
-#EXTINF:-1, group-title="USA", ESPN 1 (HD) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/14197
-#EXTINF:-1, group-title="USA", ESPN 1 (HD) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9802
-#EXTINF:-1, group-title="USA", ESPNU College Sports 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10255
-#EXTINF:-1, group-title="USA", : Food Network HD
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/7323
-#EXTINF:-1, group-title="USA", Fox Business Network
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17639
-#EXTINF:-1, group-title="USA", Fox News  
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/1818
-#EXTINF:-1, group-title="USA", Fox Sports 1 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/1846
-#EXTINF:-1, group-title="USA", Fox Sports 2 (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/1847
-#EXTINF:-1, group-title="USA", Freeform East
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/13370
-#EXTINF:-1, group-title="USA", Fuse 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46701
-#EXTINF:-1, group-title="USA", FX East 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46690
-#EXTINF:-1, group-title="USA", FXM 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10260
-#EXTINF:-1, group-title="USA", FXX (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46699
-#EXTINF:-1, group-title="USA", FYI
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9240
-#EXTINF:-1, group-title="USA", Latin Galavision
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/58770
-#EXTINF:-1, group-title="USA", GetTV 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/18366
-#EXTINF:-1, group-title="USA", Great American Country 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17640
-#EXTINF:-1, group-title="USA", Grit TV
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20861
-#EXTINF:-1, group-title="USA", Hallmark Channel
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46719
-#EXTINF:-1, group-title="USA", Hallmark family
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9307
-#EXTINF:-1, group-title="USA", Hallmark Movies & Mysteries 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10289
-#EXTINF:-1, group-title="USA", HBO East HD  
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46713
-#EXTINF:-1, group-title="USA", HBO 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9264
-#EXTINF:-1, group-title="USA", HBO 2 (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9816
-#EXTINF:-1, group-title="USA", HBO Comedy (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17773
-#EXTINF:-1, group-title="USA", HBO Family (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17772
-#EXTINF:-1, group-title="USA", HBO SIGNATURE (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9266
-#EXTINF:-1, group-title="USA", HBO Zone (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9265
-#EXTINF:-1, group-title="USA", HDNET MOVIES 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/16265
-#EXTINF:-1, group-title="USA", Heroes & Icons (Los Angeles) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/66087
-#EXTINF:-1, group-title="USA", HGTV (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46717
-#EXTINF:-1, group-title="USA", HISTORY 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46724
-#EXTINF:-1, group-title="USA", History Channel 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/15017
-#EXTINF:-1, group-title="USA", HLN 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17748
-#EXTINF:-1, group-title="USA", IFC 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9272
-#EXTINF:-1, group-title="USA", insp 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/16262
-#EXTINF:-1, group-title="USA", ID Investigation Discovery 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46810
-#EXTINF:-1, group-title="USA", ION 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9297
-#EXTINF:-1, group-title="USA", Laff (KNVA)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17777
-#EXTINF:-1, group-title="USA", Lifetime 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46714
-#EXTINF:-1, group-title="USA", Lifetime
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9275
-#EXTINF:-1, group-title="USA", Lifetime Movie
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/2208
-#EXTINF:-1, group-title="USA", : LOGO TV
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20862
-#EXTINF:-1, group-title="USA", Marquee Sports Network (HD) (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/13379
-#EXTINF:-1, group-title="USA", MAV TV (F)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20977
-#EXTINF:-1, group-title="USA", MeTV Network East
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/16149
-#EXTINF:-1, group-title="USA", More Max 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17776
-#EXTINF:-1, group-title="USA", MotorTrend (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10399
-#EXTINF:-1, group-title="USA", MoviePlex (East)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/1829
-#EXTINF:-1, group-title="USA", MSG Plus
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9276
-#EXTINF:-1, group-title="USA", MSG (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21090
-#EXTINF:-1, group-title="USA", MSNBC
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21376
-#EXTINF:-1, group-title="USA", MSNBC 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9296
-#EXTINF:-1, group-title="USA", MTV 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9818
-#EXTINF:-1, group-title="USA", MTV2 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9308
-#EXTINF:-1, group-title="USA", Nat Geo Wild East (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/11664
-#EXTINF:-1, group-title="USA", National Geographic 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46722
-#EXTINF:-1, group-title="USA", National Geographic (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9277
-#EXTINF:-1, group-title="USA", : NBA TV
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20073
-#EXTINF:-1, group-title="USA", : NBC
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46687
-#EXTINF:-1, group-title="USA", Golf Channel 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9806
-#EXTINF:-1, group-title="USA", NESN 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46726
-#EXTINF:-1, group-title="USA", Newsmax TV 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/18939
-#EXTINF:-1, group-title="USA", Nick Jr 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46710
-#EXTINF:-1, group-title="USA", Nick JR East (A) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9807
-#EXTINF:-1, group-title="USA", : NTD NEWS. 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/53527
-#EXTINF:-1, group-title="USA", One America News
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21752
-#EXTINF:-1, group-title="USA", Outdoor Channel
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9244
-#EXTINF:-1, group-title="USA", Cinemax Outermax (X)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21012
-#EXTINF:-1, group-title="USA", : OUTSIDE TV
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20865
-#EXTINF:-1, group-title="USA", : OWN
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46698
-#EXTINF:-1, group-title="USA", Oxygen (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46695
-#EXTINF:-1, group-title="USA", Oxygen (East)   
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9245
-#EXTINF:-1, group-title="USA", Paramount Network 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/16201
-#EXTINF:-1, group-title="USA", Paramount Network 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46694
-#EXTINF:-1, group-title="USA", Paramount TV 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10464
-#EXTINF:-1, group-title="USA", PixL (S)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21648
-#EXTINF:-1, group-title="USA", Pursuit UP
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/22888
-#EXTINF:-1, group-title="USA", Reelz 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10526
-#EXTINF:-1, group-title="USA", RetroPlex (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/66379
-#EXTINF:-1, group-title="USA", Revolt 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/39276
-#EXTINF:-1, group-title="USA", RFD-TV 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17868
-#EXTINF:-1, group-title="USA", GAC Living (S)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/75654
-#EXTINF:-1, group-title="USA", : AMC Thrillers
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/66243
-#EXTINF:-1, group-title="USA", Discovery Science 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20866
-#EXTINF:-1, group-title="USA", Showtime East 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46214
-#EXTINF:-1, group-title="USA", Showtime 2 (East) (H)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/13219
-#EXTINF:-1, group-title="USA", Showtime Extreme (East) (SP)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/13220
-#EXTINF:-1, group-title="USA", Showtime Family Zone (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/13481
-#EXTINF:-1, group-title="USA", Showtime Women (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17778
-#EXTINF:-1, group-title="USA", Smithsonian Channel (East)   
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/31150
-#EXTINF:-1, group-title="USA", Sportsnet New York (SNY) (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20938
-#EXTINF:-1, group-title="USA", Sportsman Channel (A)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/79913
-#EXTINF:-1, group-title="USA", Starz Cinema (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17775
-#EXTINF:-1, group-title="USA", Starz Cinema (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9301
-#EXTINF:-1, group-title="USA", Starz East (S)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9299
-#EXTINF:-1, group-title="USA", Starz Encore Westerns (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/16263
-#EXTINF:-1, group-title="USA", Starz in Black (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/17779
-#EXTINF:-1, group-title="USA", Starz West (S)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21091
-#EXTINF:-1, group-title="USA", SUNDANCE 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46712
-#EXTINF:-1, group-title="USA", Syfy (East)   
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46685
-#EXTINF:-1, group-title="USA", TBN 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/21895
-#EXTINF:-1, group-title="USA", TBS 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20867
-#EXTINF:-1, group-title="USA", Golf Channel 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46728
-#EXTINF:-1, group-title="USA", The Weather Channel 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/18926
-#EXTINF:-1, group-title="USA", TLC (East)  
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46691
-#EXTINF:-1, group-title="USA", TLC East 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/12734
-#EXTINF:-1, group-title="USA", TLC (east) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/47703
-#EXTINF:-1, group-title="USA", TNT (West) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46688
-#EXTINF:-1, group-title="USA", TNT East 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10455
-#EXTINF:-1, group-title="USA", Travel Channel East 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9315
-#EXTINF:-1, group-title="USA", TRUTV East 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10224
-#EXTINF:-1, group-title="USA", Latin TUDN
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/11885
-#EXTINF:-1, group-title="USA", TV Land 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46696
-#EXTINF:-1, group-title="USA", : TV Land Classic HD
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9271
-#EXTINF:-1, group-title="USA", TV One 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/20868
-#EXTINF:-1, group-title="USA", Fanduel TV
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10259
-#EXTINF:-1, group-title="USA", TVG2 Network 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/18940
-#EXTINF:-1, group-title="USA", Univision (East) (SP)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46692
-#EXTINF:-1, group-title="USA", Up TV 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10525
-#EXTINF:-1, group-title="USA", USA Network (East)  
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10252
-#EXTINF:-1, group-title="USA", VH1 (East) 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46705
-#EXTINF:-1, group-title="USA", VH1 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/7404
-#EXTINF:-1, group-title="USA", VICELAND 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/46697
-#EXTINF:-1, group-title="USA", VSiN (F)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/18941
-#EXTINF:-1, group-title="USA", WAPA America 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/76481
-#EXTINF:-1, group-title="USA", WE tv 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/9237
-#EXTINF:-1, group-title="USA", World Fishing Network (F)
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/10477
-#EXTINF:-1, group-title="USA", TUDN 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/82241
-#EXTINF:-1, group-title="USA", NFL Network 
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/83724
-#EXTINF:-1, group-title="USA", Root Sports Network
-http://cord-cutter.net:8080/aliciabutcher@gmail.com/CmKRbFkf2r/85232
+#iEXTINF:-1, group-title="USA", DISNEY INTERNATIONAL | 4K
+http://skysmt.com:8080/live/23839393939944/3838494958/67119.ts
+#EXTINF:-1, group-title="USA",  COMEDY CENTRAL
+http://skysmt.com:8080/live/23839393939944/3838494958/74178.ts
+#EXTINF:-1, group-title="USA", CBS REALITY
+http://skysmt.com:8080/live/23839393939944/3838494958/74179.ts
+#EXTINF:-1, group-title="USA", TLC | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74180.ts
+#EXTINF:-1, group-title="USA", USA NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/74181.ts
+#EXTINF:-1, group-title="USA", AMC
+http://skysmt.com:8080/live/23839393939944/3838494958/74182.ts
+#EXTINF:-1, group-title="USA", WWE NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/74183.ts
+#EXTINF:-1, group-title="USA", TBS | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74185.ts
+#EXTINF:-1, group-title="USA", RED BULL TV
+http://skysmt.com:8080/live/23839393939944/3838494958/74186.ts
+#EXTINF:-1, group-title="USA", HGTV | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74187.ts
+#EXTINF:-1, group-title="USA", DIY NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/74188.ts
+#EXTINF:-1, group-title="USA", BRAVO
+http://skysmt.com:8080/live/23839393939944/3838494958/74189.ts
+#EXTINF:-1, group-title="USA", FOOD NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/74190.ts
+#EXTINF:-1, group-title="USA", NASA TV | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74191.ts
+#EXTINF:-1, group-title="USA", LIFE TIME
+http://skysmt.com:8080/live/23839393939944/3838494958/74192.ts
+#EXTINF:-1, group-title="USA", TV ONE | FHD
+http://skysmt.com:8080/live/23839393939944/3838494958/74193.ts
+#EXTINF:-1, group-title="USA",  WGN NETWORK | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74194.ts
+#EXTINF:-1, group-title="USA", CW | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74195.ts
+#EXTINF:-1, group-title="USA", TV LAND| HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74196.ts
+#EXTINF:-1, group-title="USA", Oxygen | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74197.ts
+#EXTINF:-1, group-title="USA", TRU TV | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74198.ts
+#EXTINF:-1, group-title="USA", VICELAND | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74200.ts
+#EXTINF:-1, group-title="USA", YES NETWORK | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74201.ts
+#EXTINF:-1, group-title="USA", MSG | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74202.ts
+#EXTINF:-1, group-title="USA", IFC
+http://skysmt.com:8080/live/23839393939944/3838494958/74204.ts
+#EXTINF:-1, group-title="USA", TBS
+http://skysmt.com:8080/live/23839393939944/3838494958/74205.ts
+#EXTINF:-1,  group-title="USA", Fight TV
+http://skysmt.com:8080/live/23839393939944/3838494958/74207.ts
+#EXTINF:-1, group-title="USA", COZI TV
+http://skysmt.com:8080/live/23839393939944/3838494958/74208.ts
+#EXTINF:-1, group-title="USA",  ANTENNA  TV
+http://skysmt.com:8080/live/23839393939944/3838494958/74209.ts
+#EXTINF:-1, group-title="USA",  AMC 
+http://skysmt.com:8080/live/23839393939944/3838494958/74210.ts
+#EXTINF:-1, group-title="USA", AMERICA | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74211.ts
+#EXTINF:-1, group-title="USA", MSNBC ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/228520.ts
+#EXTINF:-1, group-title="USA", CNN ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/104395.ts
+#EXTINF:-1, group-title="USA", CNBC ᴴᴰ'
+http://skysmt.com:8080/live/23839393939944/3838494958/233764.ts
+#EXTINF:-1, group-title="USA", FOX NEWS ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/104409.ts
+#EXTINF:-1, group-title="USA", ABC NEWS ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/236637.ts
+#EXTINF:-1, group-title="USA", BLOOMBERG TV ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/249715.ts
+#EXTINF:-1, group-title="USA", DISCOVERY CHANNEL
+http://skysmt.com:8080/live/23839393939944/3838494958/74165.ts
+#EXTINF:-1, group-title="USA", DISCOVERY FAMILY
+http://skysmt.com:8080/live/23839393939944/3838494958/74167.ts
+#EXTINF:-1, group-title="USA", DISCOVERY LIFE
+http://skysmt.com:8080/live/23839393939944/3838494958/74168.ts
+#EXTINF:-1, group-title="USA", NATIONAL GEOGRAPHIC
+http://skysmt.com:8080/live/23839393939944/3838494958/74169.ts
+#EXTINF:-1, group-title="USA",  HISTORY  HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74171.ts
+#EXTINF:-1, group-title="USA",  Animal Planet
+http://skysmt.com:8080/live/23839393939944/3838494958/74172.ts
+#EXTINF:-1, group-title="USA", ANIMAL PLANET
+http://skysmt.com:8080/live/23839393939944/3838494958/74173.ts
+#EXTINF:-1, group-title="USA", NAT GEO WILD
+http://skysmt.com:8080/live/23839393939944/3838494958/74174.ts
+#EXTINF:-1, group-title="USA", A&E | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74176.ts
+#EXTINF:-1, group-title="USA", AMERICA | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74211.ts
+#EXTINF:-1, group-title="USA", MSNBC ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/228520.ts
+#EXTINF:-1, group-title="USA", CNN ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/104395.ts
+#EXTINF:-1, group-title="USA", CNBC ᴴᴰ'
+http://skysmt.com:8080/live/23839393939944/3838494958/233764.ts
+#EXTINF:-1, group-title="USA", FOX NEWS ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/104409.ts
+#EXTINF:-1, group-title="USA", ABC NEWS ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/236637.ts
+#EXTINF:-1, group-title="USA", BLOOMBERG TV ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/249715.ts
+#EXTINF:-1, group-title="USA", DISCOVERY CHANNEL
+http://skysmt.com:8080/live/23839393939944/3838494958/74165.ts
+#EXTINF:-1, group-title="USA", DISCOVERY FAMILY
+http://skysmt.com:8080/live/23839393939944/3838494958/74167.ts
+#EXTINF:-1, group-title="USA", DISCOVERY LIFE
+http://skysmt.com:8080/live/23839393939944/3838494958/74168.ts
+#EXTINF:-1, group-title="USA", NATIONAL GEOGRAPHIC
+http://skysmt.com:8080/live/23839393939944/3838494958/74169.ts
+#EXTINF:-1, group-title="USA",  HISTORY  HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74171.ts
+#EXTINF:-1, group-title="USA",  Animal Planet
+http://skysmt.com:8080/live/23839393939944/3838494958/74172.ts
+#EXTINF:-1, group-title="USA", ANIMAL PLANET
+http://skysmt.com:8080/live/23839393939944/3838494958/74173.ts
+#EXTINF:-1, group-title="USA", NAT GEO WILD
+http://skysmt.com:8080/live/23839393939944/3838494958/74174.ts
+#EXTINF:-1, group-title="USA", A&E | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74176.ts
+#EXTINF:-1, group-title="USA", DESTINATION AMERICA
+http://skysmt.com:8080/live/23839393939944/3838494958/74177.ts
+#EXTINF:-1, group-title="USA", CNBC ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74263.ts
+#EXTINF:-1, group-title="USA", MSNBC ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74264.ts
+#EXTINF:-1, group-title="USA", FOX NEWS
+http://skysmt.com:8080/live/23839393939944/3838494958/74266.ts
+#EXTINF:-1, group-title="USA", ABC ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74268.ts
+#EXTINF:-1, group-title="USA", CBS 
+http://skysmt.com:8080/live/23839393939944/3838494958/74269.ts
+#EXTINF:-1, group-title="USA", THE WEATHER CHANNEL ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74271.ts
+#EXTINF:-1, group-title="USA",  NBC NY ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74272.ts
+#EXTINF:-1, group-title="USA", CBSN
+http://skysmt.com:8080/live/23839393939944/3838494958/74273.ts
+#EXTINF:-1, group-title="USA",  ESPN NEWS 
+http://skysmt.com:8080/live/23839393939944/3838494958/74274.ts
+#EXTINF:-1, group-title="USA", Bloomberg TV ᴴᴰ'
+http://skysmt.com:8080/live/23839393939944/3838494958/222617.ts
+#EXTINF:-1, group-title="USA", The BLAZE | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74275.ts
+#EXTINF:-1, group-title="USA", FUSE
+http://skysmt.com:8080/live/23839393939944/3838494958/74261.ts
+#EXTINF:-1, group-title="USA",  BET | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74260.ts
+#EXTINF:-1, group-title="USA", CMT Music
+http://skysmt.com:8080/live/23839393939944/3838494958/222922.ts
+#EXTINF:-1, group-title="USA",  REVOLT | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74262.ts
+#EXTINF:-1, group-title="USA", MTV | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74258.ts
+#EXTINF:-1, group-title="USA",  MTV LIVE
+http://skysmt.com:8080/live/23839393939944/3838494958/74255.ts
+#EXTINF:-1, group-title="USA", MTV U
+http://skysmt.com:8080/live/23839393939944/3838494958/74256.ts
+#EXTINF:-1, group-title="USA",  MTV2
+http://skysmt.com:8080/live/23839393939944/3838494958/74257.ts
+#EXTINF:-1, group-title="USA", MTV CLASSIC
+http://skysmt.com:8080/live/23839393939944/3838494958/74254.ts
+#EXTINF:-1, group-title="USA",  HBO EAST
+http://skysmt.com:8080/live/23839393939944/3838494958/74213.ts
+#EXTINF:-1, group-title="USA", HBO FAMILY
+http://skysmt.com:8080/live/23839393939944/3838494958/74224.ts
+#EXTINF:-1, group-title="USA", HBO ZONE
+http://skysmt.com:8080/live/23839393939944/3838494958/74216.ts
+#EXTINF:-1, group-title="USA", HBO COMEDY 
+http://skysmt.com:8080/live/23839393939944/3838494958/74219.ts
+#EXTINF:-1, group-title="USA", HBO
+http://skysmt.com:8080/live/23839393939944/3838494958/74220.ts
+#EXTINF:-1, group-title="USA", SHOWTIME HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74231.ts
+#EXTINF:-1, group-title="USA", SHOWTIME FAMILY ZONE
+http://skysmt.com:8080/live/23839393939944/3838494958/74229.ts
+#EXTINF:-1, group-title="USA", SHOWTIME WOMEN
+http://skysmt.com:8080/live/23839393939944/3838494958/74230.ts
+#EXTINF:-1, group-title="USA", LIFETIME MOVIES 
+http://skysmt.com:8080/live/23839393939944/3838494958/74232.ts
+#EXTINF:-1, group-title="USA",  STARZ BLACK |  FHD
+http://skysmt.com:8080/live/23839393939944/3838494958/74233.ts
+#EXTINF:-1, group-title="USA", STARZ EDGE
+http://skysmt.com:8080/live/23839393939944/3838494958/74237.ts
+#EXTINF:-1, group-title="USA", STARZENCORE
+http://skysmt.com:8080/live/23839393939944/3838494958/74238.ts
+#EXTINF:-1, group-title="USA", STARZENCORE ACTION
+http://skysmt.com:8080/live/23839393939944/3838494958/74239.ts
+#EXTINF:-1, group-title="USA", STARZENCORE CLASSIC
+http://skysmt.com:8080/live/23839393939944/3838494958/74240.ts
+#EXTINF:-1, group-title="USA", STARZENCORE FAMILY
+http://skysmt.com:8080/live/23839393939944/3838494958/74241.ts
+#EXTINF:-1, group-title="USA", STARZ East | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74242.ts
+#EXTINF:-1, group-title="USA", HALLMARK MOVIES & MYSTERIES
+http://skysmt.com:8080/live/23839393939944/3838494958/74246.ts
+#EXTINF:-1, group-title="USA", HALLMARK CHANNEL
+http://skysmt.com:8080/live/23839393939944/3838494958/74247.ts
+#EXTINF:-1, group-title="USA", TNT | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74253.ts
+#EXTINF:-1, group-title="USA", LIFETIME NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/74248.ts
+#EXTINF:-1, group-title="USA", RETRO PLEX | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74251.ts
+#EXTINF:-1, group-title="USA", GRIT TV MOVIES
+http://skysmt.com:8080/live/23839393939944/3838494958/74252.ts
+#EXTINF:-1, group-title="USA", STARZ CINEMA
+http://skysmt.com:8080/live/23839393939944/3838494958/74234.ts
+#EXTINF:-1, group-title="USA", FX | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74245.ts
+#EXTINF:-1, group-title="USA", MR BEAN
+http://skysmt.com:8080/live/23839393939944/3838494958/67181.ts
+#EXTINF:-1, group-title="USA", DISNEY JR
+http://skysmt.com:8080/live/23839393939944/3838494958/67093.ts
+#EXTINF:-1, group-title="USA",  BOOMERANG
+http://skysmt.com:8080/live/23839393939944/3838494958/67092.ts
+#EXTINF:-1, group-title="USA",  NICK JR
+http://skysmt.com:8080/live/23839393939944/3838494958/67091.ts
+#EXTINF:-1, group-title="USA",  NICKELODEON
+http://skysmt.com:8080/live/23839393939944/3838494958/67090.ts
+#EXTINF:-1, group-title="USA", UNIVERSAL KIDS
+http://skysmt.com:8080/live/23839393939944/3838494958/67112.ts
+#EXTINF:-1, group-title="USA", CARTOON NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/67101.ts
+#EXTINF:-1, group-title="USA", DISNEY JR EAST
+http://skysmt.com:8080/live/23839393939944/3838494958/74075.ts
+#EXTINF:-1, group-title="USA", TSN 1 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74308.ts
+#EXTINF:-1, group-title="USA", TSN 2
+http://skysmt.com:8080/live/23839393939944/3838494958/74307.ts
+#EXTINF:-1, group-title="USA", TSN 3 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74306.ts
+#EXTINF:-1, group-title="USA", TSN 4 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74305.ts
+#EXTINF:-1, group-title="USA", TSN 5 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74304.ts
+#EXTINF:-1, group-title="USA", NBA TV ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74299.ts
+#EXTINF:-1, group-title="USA", NBA TV ᶠᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/262686.ts
+#EXTINF:-1, group-title="USA", NBA NETWORK ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74300.ts
+#EXTINF:-1, group-title="USA", NBA NETWORK ᶠᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/262687.ts
+#EXTINF:-1, group-title="USA", ESPN 1 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74278.ts
+#EXTINF:-1, group-title="USA", ESPN 2 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74281.ts
+#EXTINF:-1, group-title="USA", ESPN U ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74279.ts
+#EXTINF:-1, group-title="USA", WWE | FHD
+http://skysmt.com:8080/live/23839393939944/3838494958/84055.ts
+#EXTINF:-1, group-title="USA", ESPN News ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74277.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS 1 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74282.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS 2 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74284.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS CAROLINAS ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74285.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS MIDWEST ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74286.ts
+#EXTINF:-1, group-title="USA", Bally Sports Ohio ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74287.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS OKLAHOMA ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74288.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS SUN ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74292.ts
+#EXTINF:-1, group-title="USA", Fox Sport 1 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74293.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS 2 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74294.ts
+#EXTINF:-1, group-title="USA", NBCSN ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74295.ts
+#EXTINF:-1, group-title="USA", NFL NETWORK ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74296.ts
+#EXTINF:-1, group-title="USA", NFL NETWORK ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74297.ts
+#EXTINF:-1, group-title="USA", NFL REDZONE ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74298.ts
+#EXTINF:-1, group-title="USA", MLB NETWORK ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74301.ts
+#EXTINF:-1, group-title="USA", NHL NETWORK ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74302.ts
+#EXTINF:-1, group-title="USA", UFC FIGHT PASS  ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74303.ts
+#EXTINF:-1, group-title="USA", FOX SAN DIEGO ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74289.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS SOUTH ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74290.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS SOUTHWEST ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74291.ts
+#EXTINF:-1, group-title="USA", CNN ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74265.ts
+#EXTINF:-1, group-title="USA", FOX MOVIES 1 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74283.ts
+#EXTINF:-1, group-title="USA", ESPN News | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/254451.ts
+#EXTINF:-1, group-title="USA", ESPN
+http://skysmt.com:8080/live/23839393939944/3838494958/254452.ts
+#EXTINF:-1, group-title="USA", ESPN U
+http://skysmt.com:8080/live/23839393939944/3838494958/254453.ts
+#EXTINF:-1, group-title="USA", ESPN 1
+http://skysmt.com:8080/live/23839393939944/3838494958/254454.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS 1
+http://skysmt.com:8080/live/23839393939944/3838494958/254456.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS MIDWEST
+http://skysmt.com:8080/live/23839393939944/3838494958/254458.ts
+#EXTINF:-1, group-title="USA", Bally Sports Ohio
+http://skysmt.com:8080/live/23839393939944/3838494958/254459.ts
+#EXTINF:-1, group-title="USA", Bally Sports Ohio ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74287.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS OKLAHOMA ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74288.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS SUN ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74292.ts
+#EXTINF:-1, group-title="USA", Fox Sport 1 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74293.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS 2 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74294.ts
+#EXTINF:-1, group-title="USA", NBCSN ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74295.ts
+#EXTINF:-1, group-title="USA", NFL NETWORK ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74296.ts
+#EXTINF:-1, group-title="USA", NFL NETWORK ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74297.ts
+#EXTINF:-1, group-title="USA", NFL REDZONE ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74298.ts
+#EXTINF:-1, group-title="USA", MLB NETWORK ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74301.ts
+#EXTINF:-1, group-title="USA", NHL NETWORK ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74302.ts
+#EXTINF:-1, group-title="USA", UFC FIGHT PASS  ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74303.ts
+#EXTINF:-1, group-title="USA", FOX SAN DIEGO ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74289.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS SOUTH ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74290.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS SOUTHWEST ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74291.ts
+#EXTINF:-1, group-title="USA", CNN ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74265.ts
+#EXTINF:-1, group-title="USA", FOX MOVIES 1 ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/74283.ts
+#EXTINF:-1, group-title="USA", ESPN News | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/254451.ts
+#EXTINF:-1, group-title="USA", ESPN
+http://skysmt.com:8080/live/23839393939944/3838494958/254452.ts
+#EXTINF:-1, group-title="USA", ESPN U
+http://skysmt.com:8080/live/23839393939944/3838494958/254453.ts
+#EXTINF:-1, group-title="USA", ESPN 1
+http://skysmt.com:8080/live/23839393939944/3838494958/254454.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS 1
+http://skysmt.com:8080/live/23839393939944/3838494958/254456.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS MIDWEST
+http://skysmt.com:8080/live/23839393939944/3838494958/254458.ts
+#EXTINF:-1, group-title="USA", Bally Sports Ohio
+http://skysmt.com:8080/live/23839393939944/3838494958/254459.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS OKLAHOMA
+http://skysmt.com:8080/live/23839393939944/3838494958/254460.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS SUN
+http://skysmt.com:8080/live/23839393939944/3838494958/254461.ts
+#EXTINF:-1, group-title="USA", Fox Sport 1 | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/254462.ts
+#EXTINF:-1, group-title="USA", FOX SPORTS 2 | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/254463.ts
+#EXTINF:-1, group-title="USA",  NBCSN
+http://skysmt.com:8080/live/23839393939944/3838494958/254464.ts
+#EXTINF:-1, group-title="USA", NFL NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/254465.ts
+#EXTINF:-1, group-title="USA", NFL NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/254466.ts
+#EXTINF:-1, group-title="USA",  NFL REDZONE | HD
+http://skysmt.com:8080/live/23839393939944/3838494958/254467.ts
+#EXTINF:-1, group-title="USA", NBA TV
+http://skysmt.com:8080/live/23839393939944/3838494958/254468.ts
+#EXTINF:-1, group-title="USA", NBA NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/254469.ts
+#EXTINF:-1, group-title="USA", MLB NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/254470.ts
+#EXTINF:-1, group-title="USA", NHL NETWORK
+http://skysmt.com:8080/live/23839393939944/3838494958/254471.ts
+#EXTINF:-1, group-title="USA", UFC FIGHT PASS
+http://skysmt.com:8080/live/23839393939944/3838494958/254472.ts
+#EXTINF:-1, group-title="USA", TSN 5
+http://skysmt.com:8080/live/23839393939944/3838494958/254473.ts
+#EXTINF:-1, group-title="USA", TSN 4
+http://skysmt.com:8080/live/23839393939944/3838494958/254474.ts
+#EXTINF:-1, group-title="USA",  TSN 3
+http://skysmt.com:8080/live/23839393939944/3838494958/254475.ts
+#EXTINF:-1, group-title="USA", TSN 2
+http://skysmt.com:8080/live/23839393939944/3838494958/254476.ts
+#EXTINF:-1, group-title="USA", AMC +
+http://skysmt.com:8080/live/23839393939944/3838494958/222388.ts
+#EXTINF:-1, group-title="USA", AMG TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222389.ts
+#EXTINF:-1, group-title="USA", Antenna TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222390.ts
+#EXTINF:-1, group-title="USA", Atlanta Channel
+http://skysmt.com:8080/live/23839393939944/3838494958/222391.ts
+#EXTINF:-1, group-title="USA", Atlanta Georgia WATC TV 57
+http://skysmt.com:8080/live/23839393939944/3838494958/222392.ts
+#EXTINF:-1, group-title="USA", Bible Explorations TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222393.ts
+#EXTINF:-1, group-title="USA", Bounce TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222394.ts
+#EXTINF:-1, group-title="USA", CBN Family
+http://skysmt.com:8080/live/23839393939944/3838494958/222395.ts
+#EXTINF:-1, group-title="USA", CBS
+http://skysmt.com:8080/live/23839393939944/3838494958/222396.ts
+#EXTINF:-1, group-title="USA", CBS Tampas
+http://skysmt.com:8080/live/23839393939944/3838494958/222397.ts
+#EXTINF:-1, group-title="USA", Cinemax
+http://skysmt.com:8080/live/23839393939944/3838494958/222399.ts
+#EXTINF:-1, group-title="USA", Classic Movies
+http://skysmt.com:8080/live/23839393939944/3838494958/222401.ts
+#EXTINF:-1, group-title="USA", CW Chicago
+http://skysmt.com:8080/live/23839393939944/3838494958/222405.ts
+#EXTINF:-1, group-title="USA", Daystar TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222407.ts
+#EXTINF:-1, group-title="USA", DC COUNCIL CHANNEL (DCC)
+http://skysmt.com:8080/live/23839393939944/3838494958/222408.ts
+#EXTINF:-1, group-title="USA", EWTN
+http://skysmt.com:8080/live/23839393939944/3838494958/222409.ts
+#EXTINF:-1, group-title="USA", Gods Learning Channel
+http://skysmt.com:8080/live/23839393939944/3838494958/222415.ts
+#EXTINF:-1, group-title="USA", History 2
+http://skysmt.com:8080/live/23839393939944/3838494958/222418.ts
+#EXTINF:-1, group-title="USA", Impact TV Network
+http://skysmt.com:8080/live/23839393939944/3838494958/222421.ts
+#EXTINF:-1, group-title="USA", Key TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222423.ts
+#EXTINF:-1, group-title="USA", MSGSN
+http://skysmt.com:8080/live/23839393939944/3838494958/222428.ts
+#EXTINF:-1, group-title="USA", NBC
+http://skysmt.com:8080/live/23839393939944/3838494958/222438.ts
+#EXTINF:-1, group-title="USA", NEW Orleans TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222439.ts
+#EXTINF:-1, group-title="USA", PBS Garden City New York (WLIW TV)
+http://skysmt.com:8080/live/23839393939944/3838494958/222443.ts
+#EXTINF:-1, group-title="USA", Smithsonian Channel
+http://skysmt.com:8080/live/23839393939944/3838494958/222445.ts
+#EXTINF:-1, group-title="USA", Sum TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222448.ts
+#EXTINF:-1, group-title="USA", The Beach Show
+http://skysmt.com:8080/live/23839393939944/3838494958/222453.ts
+#EXTINF:-1, group-title="USA", The Point
+http://skysmt.com:8080/live/23839393939944/3838494958/222454.ts
+#EXTINF:-1, group-title="USA", TV Panou
+http://skysmt.com:8080/live/23839393939944/3838494958/222456.ts
+#EXTINF:-1, group-title="USA", Weather Nation
+http://skysmt.com:8080/live/23839393939944/3838494958/222460.ts
+#EXTINF:-1, group-title="USA", World Harvest TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222462.ts
+#EXTINF:-1, group-title="USA", z! comedy
+http://skysmt.com:8080/live/23839393939944/3838494958/222464.ts
+#EXTINF:-1, group-title="USA", A&E
+http://skysmt.com:8080/live/23839393939944/3838494958/222465.ts
+#EXTINF:-1, group-title="USA", American Heroes Channel
+http://skysmt.com:8080/live/23839393939944/3838494958/222466.ts
+#EXTINF:-1, group-title="USA", Court TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222467.ts
+#EXTINF:-1, group-title="USA", Crime+ Investigation
+http://skysmt.com:8080/live/23839393939944/3838494958/222468.ts
+#EXTINF:-1, group-title="USA", Discovery Channel
+http://skysmt.com:8080/live/23839393939944/3838494958/222469.ts
+#EXTINF:-1, group-title="USA", Discovery Science
+http://skysmt.com:8080/live/23839393939944/3838494958/222470.ts
+#EXTINF:-1, group-title="USA", Discovery Velocity
+http://skysmt.com:8080/live/23839393939944/3838494958/222471.ts
+#EXTINF:-1, group-title="USA", History
+http://skysmt.com:8080/live/23839393939944/3838494958/222472.ts
+#EXTINF:-1, group-title="USA", InfoWars
+http://skysmt.com:8080/live/23839393939944/3838494958/222473.ts
+#EXTINF:-1, group-title="USA", Investigation Discovery
+http://skysmt.com:8080/live/23839393939944/3838494958/222474.ts
+#EXTINF:-1, group-title="USA", Nasa TV
+http://skysmt.com:8080/live/23839393939944/3838494958/222475.ts
+#EXTINF:-1, group-title="USA", NAT GEO
+http://skysmt.com:8080/live/23839393939944/3838494958/222476.ts
+#EXTINF:-1, group-title="USA", Oxygen
+http://skysmt.com:8080/live/23839393939944/3838494958/222478.ts
+#EXTINF:-1, group-title="USA", Science
+http://skysmt.com:8080/live/23839393939944/3838494958/222479.ts
+#EXTINF:-1, group-title="USA", Scientology Network
+http://skysmt.com:8080/live/23839393939944/3838494958/222480.ts
+#EXTINF:-1, group-title="USA", Travel Channel
+http://skysmt.com:8080/live/23839393939944/3838494958/222481.ts
+#EXTINF:-1, group-title="USA", ANIMAL PLANET
+http://skysmt.com:8080/live/23839393939944/3838494958/222482.ts
+#EXTINF:-1, group-title="USA", ANIMAL PLANET Europe
+http://skysmt.com:8080/live/23839393939944/3838494958/222483.ts
+#EXTINF:-1, group-title="USA", Love Nature 4K Ultra HD
+http://skysmt.com:8080/live/23839393939944/3838494958/222484.ts
+#EXTINF:-1, group-title="USA", NAT GEO Wild
+http://skysmt.com:8080/live/23839393939944/3838494958/222485.ts
+#EXTINF:-1, group-title="USA", Wired2Fish
+http://skysmt.com:8080/live/23839393939944/3838494958/222486.ts
+#EXTINF:-1, group-title="USA", ABC News ᴴᴰ
+http://skysmt.com:8080/live/23839393939944/3838494958/222591.ts
+
+
 #EXTINF:-1 tvg-id="99991247" tvg-name="NBC News NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/168x168.png?type=color_onBlack" group-title="News",NBC News NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.csid=xumo_web_NBCNewsNOW_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=6b67a3e4-f03e-454f-be43-8b9b0ff8c3bf&ads._fw_vcid2=512116:6b67a3e4-f03e-454f-be43-8b9b0ff8c3bf&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99991247&ads._fw_ifa_type=
 #EXTINF:-1 tvg-id="99951517" tvg-name="ABC News Live" tvg-logo="https://image.xumo.com/v1/channels/channel/99951517/168x168.png?type=color_onBlack" group-title="News",ABC News Live
