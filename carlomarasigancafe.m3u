@@ -15,6 +15,9 @@ https://live-manifest.production-public.tubi.io/live/cfadd98c-b8e5-4150-af1a-aad
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dbY3VRH.jpg" group-title="News",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
+EXTINF:-1, group-title="USA", THE WEATHER CHANNEL HD
+http://skysmt.com:8080/live/23839393939944/3838494958/74271.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dbY3VRH.jpg" group-title="News",NEWSMAX 2
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="Charge.us@SD",Charge! (1080p)
