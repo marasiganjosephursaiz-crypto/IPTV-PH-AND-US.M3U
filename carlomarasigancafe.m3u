@@ -11626,6 +11626,18 @@ https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movie Channels", CRAVE 1
+http://kstv.us:8080/live/5NWCtCyG06/0316873732/40656.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="Movie Channels", CRAVE 2
+http://kstv.us:8080/live/5NWCtCyG06/0316873732/40655.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-title="Movie Channels", CRAVE 3
+http://kstv.us:8080/live/5NWCtCyG06/0316873732/40654.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="Movie Channels", CRAVE 4
+http://kstv.us:8080/live/5NWCtCyG06/0316873732/40653.m3u8
+
 
 
 
