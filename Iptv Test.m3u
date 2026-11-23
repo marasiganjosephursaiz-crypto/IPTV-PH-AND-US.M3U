@@ -37,3 +37,11 @@ https://biptv.s.gy/channelusg
 https://biptv.s.gy/suriasg
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/vasantham-sg.png" group-title="Singapore 🇸🇬" tvg-status="unstable",Vasantham
 https://biptv.s.gy/vasanthamsg
+
+
+#EXTINF:-1  tvg-id="97098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250", Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea574677cd96492497e71a9021b2c3ed:e0b7845bb59fde72bba99aec30518cb8
+http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG5jHZUPbxyiroYXxaCGeFunwJJi247M6Ajd_xOGv37i2E43WWCEI6Z9-VISIxf87reeq2JJ4CYQEz2aD0dPxnmsfMbWXVrdv347mE3FNvFxN9H1mdc5R0OmRypAJtKtXZV75_I4nWYqc3WTqfhMRLjItheRZdwFbjgeVvd_laT9ppiW-CExkCcmW5TdIePR55AFN7myMZBWgqv8fbxVijEw.m3u8?u=1757123819
+http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG5jHZUPbxyiroYXxaCGeFunwJJi247M6Ajd_xOGv37i2E43WWCEI6Z9-VISIxf87reeq2JJ4CYQEz2aD0dPxnmsfMbWXVrdv347mE3FNvFxN9H1mdc5R0OmRypAJtKtXZV75_I4nWYqc3WTqfhMRLjItheRZdwFbjgeVvd_laT9ppiW-CExkCcmW5TdIePR55AFN7myMZBWgqv8fbxVijEw.m3u8?u=1757123819
+
