@@ -43,3 +43,11 @@ MeWatch Ch 5,https://www.xn--rgv465a.top/tv/live/playlist.m3u8
 MeWatch Ch 8,https://www.xn--rgv465a.top/tv/live/playlist.m3u8
 MeWatch Ch U,https://www.xn--rgv465a.top/tv/live/playlist.m3u8
 MeWatch Suria,https://www.xn--rgv465a.top/tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (576p)
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (480p)
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/125/index.m3u8
