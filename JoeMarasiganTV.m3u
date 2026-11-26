@@ -1205,11 +1205,11 @@ https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 **********LIVE REVIEW-**********
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="LIVE REVIEW", PBB 3.0 ALL ACESS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8150b74d16324bb4b2ff62e3e202fc7a:0c5ed4f9db9d4ee61bbc91b3a51ef8b5
-https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=b75e0a8315d0499b834c00a3d5b91935:39876c3c4f32a11dee56078febbb67dd
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollaballaccesslivestream/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="LIVE REVIEW", PBB 3.0 DINNING AREA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
